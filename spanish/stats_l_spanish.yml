@@ -233,12 +233,12 @@
  STAT_NAVY_RANGE_VALUE:0 "$VALUE|H0$ km"
  STAT_NAVY_RANGE_DIFF:0 " $VALUE|=+1$"
  STAT_COMMON_ARMOR:0 "Blindaje:
- STAT_COMMON_ARMOR_DESC:0 "Tener un §HBlindaje§! que sea superior al valor de §HPiercing§! de los oponentes te hace recibir menos daño y también permite realizar más ataques en combate, ya que la unidad tiene más libertad de movimiento."
+ STAT_COMMON_ARMOR_DESC:0 "Tener un §HBlindaje§! que sea superior al valor de §HPerforación§! de los oponentes te hace recibir menos daño y también permite realizar más ataques en combate, ya que la unidad tiene más libertad de movimiento."
  STAT_COMMON_ARMOR_TRAIN_DESC:0 "§HBlindaje§! aumenta la cantidad de daño que pueden recibir los ataques logísticos enemigos antes de que este tren sea destruido."
  STAT_COMMON_ARMOR_VALUE:0 "$VALUE|H1$"
  STAT_COMMON_ARMOR_DIFF:0 " $VALUE|=+1$"
  STAT_COMMON_PIERCING:0 "Perforación:
- STAT_COMMON_PIERCING_DESC:0 "Tener una §HPiercing§! igual o superior al valor de §HBlindaje§! de los objetivos te permite hacer más daño y pinchar de manera más efectiva sus fuerzas acorazadas."
+ STAT_COMMON_PIERCING_DESC:0 "Tener una §HPerforación§! igual o superior al valor de §HBlindaje§! de los objetivos te permite hacer más daño y pinchar de manera más efectiva sus fuerzas acorazadas."
  STAT_COMMON_PIERCING_VALUE:0 "$VALUE|H1$"
  STAT_COMMON_PIERCING_DIFF:0 " $VALUE|=+1$"
  STAT_RANGE:0 "Rango:
