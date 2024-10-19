@@ -1,0 +1,7 @@
+﻿l_spanish:
+ CHAT_USERJOINEDCHANNEL:0 "$NAME$ se unió."
+ CHAT_USERDISCONNECTED:0 "$NAME$ se desconectó."
+ CHAT_USERWASBANNED:0 "$NAME$ fue baneado."
+ CHAT_USERLEFTCHANNEL:0 "$NAME$ dejó el canal."
+ CHAT_CHANNEL_GENERAL:0 "General"
+
