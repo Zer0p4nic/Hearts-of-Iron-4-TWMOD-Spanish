@@ -1,0 +1,28 @@
+﻿l_spanish:
+ #### SA Reworked Localisation ####  
+
+ #Country Names
+ SAF_fascism:0 "Sudáfrica Nacionalista"  
+ SAF_fascism_DEF:0 "Sudáfrica"  
+ SAF_democratic:0 "Unión de Sudáfrica"  
+ SAF_democratic_DEF:0 "Sudáfrica"  
+ SAF_neutrality:0 "Unión de Sudáfrica"  
+ SAF_neutrality_DEF:0 "Sudáfrica"  
+ SAF_communism:0 "República Popular de Sudáfrica"  
+ SAF_communism_DEF:0 "Sudáfrica"  
+ SAF_fascism_ADJ:0 "Sudafricano"  
+ SAF_democratic_ADJ:0 "Sudafricano"  
+ SAF_neutrality_ADJ:0 "Sudafricano"  
+ SAF_communism_ADJ:0 "Sudafricano"   
+                                                                                
+ SAF_south_africa_first:0 "Política Exterior Flexible"  
+ SAF_south_africa_first_desc:0 "Al igual que la Weltpolitik alemana bajo el mandato de Guillermo II, nosotros también buscamos nuestro propio lugar bajo el sol. Y lo encontraremos con quienquiera que se una a nosotros en este nuevo camino."  
+ SAF_empower_the_workers:0 "Organizar a los Trabajadores"  
+ #SAF_empower_the_workers_desc:0 "El Partido Nacional ha ganado las elecciones. ¿Podrá Hertzog mantener el control del liderazgo del Partido y mantener a Sudáfrica neutral, o alguien con un apoyo creciente en el partido, como D. F. Malan, tomará el control y llevará al país por un camino diferente?"  
+ SAF_support_the_policy_of_appeasement:0 "Comprometerse con la Commonwealth"  
+ SAF_support_the_policy_of_appeasement_desc:0 "Es de interés nacional permanecer dentro de la Commonwealth para unir nuestro conocimiento y experiencia para fortalecernos mutuamente."  
+ SAF_support_axis_interests:0 "Apoyar los Intereses Alemanes"  
+ #SAF_support_axis_interests_desc:0 "."  
+ SAF_infrastructure_effort:0 "Autopistas Nacionales"  
+ SAF_infrastructure_effort_desc:0 "Podemos comenzar a construir un sistema nacional de autopistas para conectar nuestras principales ciudades."  
+ 
