@@ -493,63 +493,63 @@
  DR_MAJOR:1 "§Y$US|U$§! es una nación importante:"
  DR_IDEOLOGICAL_ACCEPTANCE:1 "§Y$US|U$§! es probable que acepte la presión de $IDEOLOGY|Y$:"
  DR_LICENSE_ACCEPTANCE:1 "§Y$THEM|U$§! es más probable que acepte §YSolicitudes de Producción de Licencia§! de §Y$US$§!"
- DR_STRATEGIC_HOSTILITY:1 "§Y$US|U$§! tiene razones estratégicas para ser hostil a §Y$THEM$§!:"
- DR_STRATEGIC_NOT_HOSTILITY:0 "§Y$US|U$§! tiene razones estratégicas para permanecer neutral con §Y$THEM$§!:"
- DR_STRATEGIC_FRIENDSHIP:1 "§Y$US|U$§! tiene razones estratégicas para ser amistoso con §Y$THEM$§!:"
- DR_STRATEGIC_NOT_FRIENDSHIP:0 "§Y$US|U$§! tiene razones estratégicas para no ser amistoso con §Y$THEM$§!:"
- DR_STRATEGIC_ALLIANCE:1 "§Y$US|U$§! tiene razones estratégicas para aliarse con §Y$THEM$§!:"
- DR_STRATEGIC_SUPPORT:2 "§Y$US|U$§! tiene razones estratégicas para apoyar a §Y$THEM$§!:"
- DR_STRATEGIC_NOT_ALLIANCE:0 "§Y$US|U$§! tiene razones estratégicas para no aliarse con §Y$THEM$§!:"
- DR_STRATEGIC_NOT_SUPPORT:0 "§Y$US|U$§! tiene razones estratégicas para no apoyar a §Y$THEM$§!:"
- DR_STRATEGIC_CONTAIN:1 "§Y$US|U$§! quiere contener la agresión de §Y$THEM$§!:"
- DR_STRATEGIC_NEUTRALITY_THREAT:1 "§Y$US|U$§! se siente amenazado por nosotros:"
- DR_STRATEGIC_DONT_JOIN:1 "§Y$US|U$§! tiene razones estratégicas para no unirse a la guerra:"
- DR_PLAYER_ASKING_FACTION:1 "§Y$THEM|U$§! es un jugador:"
- DR_OPINION:1 "§Y$US|U$§! opinión de §Y$THEM$§!:"
- DR_OPINION_DIPLOMATIC_PRESSURE:1 "£operative_mission_icons_small|7£ Presión Diplomática:"
- DR_YEARS_DIFFERENCE:0 "Diferencia tecnológica del equipo solicitado:"
- DR_LEND_LEASE:0 "La ayuda es bienvenida:"
+ DR_STRATEGIC_HOSTILITY:1 "§Y$US|U$§! tiene razones estratégicas para ser hostil a §Y$THEM$§!:
+ DR_STRATEGIC_NOT_HOSTILITY:0 "§Y$US|U$§! tiene razones estratégicas para permanecer neutral con §Y$THEM$§!:
+ DR_STRATEGIC_FRIENDSHIP:1 "§Y$US|U$§! tiene razones estratégicas para ser amistoso con §Y$THEM$§!:
+ DR_STRATEGIC_NOT_FRIENDSHIP:0 "§Y$US|U$§! tiene razones estratégicas para no ser amistoso con §Y$THEM$§!:
+ DR_STRATEGIC_ALLIANCE:1 "§Y$US|U$§! tiene razones estratégicas para aliarse con §Y$THEM$§!:
+ DR_STRATEGIC_SUPPORT:2 "§Y$US|U$§! tiene razones estratégicas para apoyar a §Y$THEM$§!:
+ DR_STRATEGIC_NOT_ALLIANCE:0 "§Y$US|U$§! tiene razones estratégicas para no aliarse con §Y$THEM$§!:
+ DR_STRATEGIC_NOT_SUPPORT:0 "§Y$US|U$§! tiene razones estratégicas para no apoyar a §Y$THEM$§!:
+ DR_STRATEGIC_CONTAIN:1 "§Y$US|U$§! quiere contener la agresión de §Y$THEM$§!:
+ DR_STRATEGIC_NEUTRALITY_THREAT:1 "§Y$US|U$§! se siente amenazado por nosotros:
+ DR_STRATEGIC_DONT_JOIN:1 "§Y$US|U$§! tiene razones estratégicas para no unirse a la guerra:
+ DR_PLAYER_ASKING_FACTION:1 "§Y$THEM|U$§! es un jugador:
+ DR_OPINION:1 "§Y$US|U$§! opinión de §Y$THEM$§!:
+ DR_OPINION_DIPLOMATIC_PRESSURE:1 "£operative_mission_icons_small|7£ Presión Diplomática:
+ DR_YEARS_DIFFERENCE:0 "Diferencia tecnológica del equipo solicitado:
+ DR_LEND_LEASE:0 "La ayuda es bienvenida:
  DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS:1 "$SENDER|UH$ tiene equipo insuficiente o §Ytenemos§! demasiado equipo en stockpile."
- DR_VOLUNTEER:0 "La ayuda es bienvenida:"
- DR_ATTACHE:0 "La ayuda es bienvenida:"
- DR_ATTACHE_LOW_OPINION:0 "Opinión demasiado baja sobre nosotros:"
- DR_CONTAIN_SUPPORT:0 "Quieren contener un país con el que estamos o podemos estar combatiendo:"
- DR_PROTECT_AGAINST:0 "Se sienten protectores contra al menos un país que consideramos enemigo:"
- DR_WANTS_ACCESS:1 "§Y$US|U$§! quiere acceso a través de §Y$THEM$§!:"
- DR_AI_CHEAT:0 "Trampa de aceptación de IA:"
- DR_AI_UNABLE_TO_ACCEPT:0 "No se puede aceptar este trato:"
- DR_DEFENSIVE_WAR:0 "Siendo llamados a una guerra defensiva:"
- DR_OFFENSIVE_WAR:0 "Democracia siendo llamada a una guerra ofensiva:"
- DR_GUARANTEE:1 "§Y$US|U$§! está garantizado por §Y$THEM$§!:"
- DR_GUARANTEEING:1 "§Y$US|U$§! está garantizando a §Y$THEM$§!:"
- DR_SAME_IDEOLOGY:0 "§Y$THEM|U$§! tiene la misma ideología:"
+ DR_VOLUNTEER:0 "La ayuda es bienvenida:
+ DR_ATTACHE:0 "La ayuda es bienvenida:
+ DR_ATTACHE_LOW_OPINION:0 "Opinión demasiado baja sobre nosotros:
+ DR_CONTAIN_SUPPORT:0 "Quieren contener un país con el que estamos o podemos estar combatiendo:
+ DR_PROTECT_AGAINST:0 "Se sienten protectores contra al menos un país que consideramos enemigo:
+ DR_WANTS_ACCESS:1 "§Y$US|U$§! quiere acceso a través de §Y$THEM$§!:
+ DR_AI_CHEAT:0 "Trampa de aceptación de IA:
+ DR_AI_UNABLE_TO_ACCEPT:0 "No se puede aceptar este trato:
+ DR_DEFENSIVE_WAR:0 "Siendo llamados a una guerra defensiva:
+ DR_OFFENSIVE_WAR:0 "Democracia siendo llamada a una guerra ofensiva:
+ DR_GUARANTEE:1 "§Y$US|U$§! está garantizado por §Y$THEM$§!:
+ DR_GUARANTEEING:1 "§Y$US|U$§! está garantizando a §Y$THEM$§!:
+ DR_SAME_IDEOLOGY:0 "§Y$THEM|U$§! tiene la misma ideología:
  DR_FACTION_LOW_TENSION:0 "La tensión mundial es §R$TENSION_DIFF$§! demasiado baja para que §Y$THEM$§! entre en una facción con §Y$US$§!"
  DR_FACTION_TENSION:0 "Tensión mundial: §G$TENSION_DIFF$§!"
- DR_FACTION_SURRENDER:1 "§Y$THEM|U$§! está perdiendo una guerra:"
- DR_FACTION_WRONG_IDEOLOGY:0 "Diferente Ideología:"
- DR_FACTION_NEUTRALITY:0 "No alineado:"
- DR_FACTION_MATCHING_MAJOR:1 "§Y$THEM|U$§! es de la misma ideología mayor:"
- DR_FACTION_NEITHER_AT_WAR:0 "Ninguno de ellos ni nosotros estamos en guerra:"
- DR_FACTION_WAR_RELUCTANCE_WAR:0 "Tenemos una guerra en la que pueden verse involucrados:"
- DR_FACTION_CIVIL_WAR_RELUCTANCE:0 "En guerra civil:"
- DR_FACTION_SAME_WAR:0 "Estamos en el mismo bando en una guerra:"
- DR_TOO_INSIGNIFICANT:0 "Somos insignificantes en comparación con ellos:"
- DR_FACTION_BOTH_LOSING_WAR:0 "Tanto ellos como nosotros estamos perdiendo guerras:"
- DR_THEM_PUPPET:1 "§Y$THEM|U$§! es un títere de §Y$US$§!:"
- DR_TOO_MUCH_THREAT:1 "§Y$US|U$§! generó demasiada tensión mundial en comparación con la facción:"
- DR_US_PUPPET:1 "§Y$US|U$§! es un títere de §Y$THEM$§!:"
- DR_NOT_READY:1 "§Y$THEM|U$§! no está listo para la guerra contra §Y$ENEMY$§!:"
+ DR_FACTION_SURRENDER:1 "§Y$THEM|U$§! está perdiendo una guerra:
+ DR_FACTION_WRONG_IDEOLOGY:0 "Diferente Ideología:
+ DR_FACTION_NEUTRALITY:0 "No alineado:
+ DR_FACTION_MATCHING_MAJOR:1 "§Y$THEM|U$§! es de la misma ideología mayor:
+ DR_FACTION_NEITHER_AT_WAR:0 "Ninguno de ellos ni nosotros estamos en guerra:
+ DR_FACTION_WAR_RELUCTANCE_WAR:0 "Tenemos una guerra en la que pueden verse involucrados:
+ DR_FACTION_CIVIL_WAR_RELUCTANCE:0 "En guerra civil:
+ DR_FACTION_SAME_WAR:0 "Estamos en el mismo bando en una guerra:
+ DR_TOO_INSIGNIFICANT:0 "Somos insignificantes en comparación con ellos:
+ DR_FACTION_BOTH_LOSING_WAR:0 "Tanto ellos como nosotros estamos perdiendo guerras:
+ DR_THEM_PUPPET:1 "§Y$THEM|U$§! es un títere de §Y$US$§!:
+ DR_TOO_MUCH_THREAT:1 "§Y$US|U$§! generó demasiada tensión mundial en comparación con la facción:
+ DR_US_PUPPET:1 "§Y$US|U$§! es un títere de §Y$THEM$§!:
+ DR_NOT_READY:1 "§Y$THEM|U$§! no está listo para la guerra contra §Y$ENEMY$§!:
  DR_TOO_DANGEROUS:1 "§Y$THEM|U$§! tiene fronteras peligrosas contra los enemigos."
  RULER_OF:0 "Líder de @$TAG$$COUNTRY|Y$"
- DR_BORDERS_ENEMY:1 "$US|U$ tiene una frontera con $ENEMY$:"
- DR_BORDERS_AT_LEAST_ONE_ENEMY:0 "$US|UH$ tiene una frontera con $NR_ENEMY$ de los enemigos:"
- DR_HAS_CORE_ON_ANY_STATE:1 "$COUNTRY|UY$ tiene al menos uno de los estados objetivos como núcleo:"
- DR_HAS_CLAIM_ON_ANY_STATE:1 "$COUNTRY|UY$ tiene un reclamo sobre al menos uno de los estados objetivos:"
- DR_TRUST_THE_PLAYER:1 "$COUNTRY|UY$ confía en el juicio de un miembro de la facción:"
- DR_NOT_CONTROLING_ENOUGH_TERRITORY:1 "$COUNTRY|UY$ no controla suficiente territorio ocupado como para querer ceder alguno:"
- DR_NOT_ENOUGH_PARTICIPATION:1 "$COUNTRY|UY$ piensa que entregarte el control de la ocupación te daría una parte injusta del territorio ocupado:"
+ DR_BORDERS_ENEMY:1 "$US|U$ tiene una frontera con $ENEMY$:
+ DR_BORDERS_AT_LEAST_ONE_ENEMY:0 "$US|UH$ tiene una frontera con $NR_ENEMY$ de los enemigos:
+ DR_HAS_CORE_ON_ANY_STATE:1 "$COUNTRY|UY$ tiene al menos uno de los estados objetivos como núcleo:
+ DR_HAS_CLAIM_ON_ANY_STATE:1 "$COUNTRY|UY$ tiene un reclamo sobre al menos uno de los estados objetivos:
+ DR_TRUST_THE_PLAYER:1 "$COUNTRY|UY$ confía en el juicio de un miembro de la facción:
+ DR_NOT_CONTROLING_ENOUGH_TERRITORY:1 "$COUNTRY|UY$ no controla suficiente territorio ocupado como para querer ceder alguno:
+ DR_NOT_ENOUGH_PARTICIPATION:1 "$COUNTRY|UY$ piensa que entregarte el control de la ocupación te daría una parte injusta del territorio ocupado:
  DR_NO_PARTICIPATION:1 "$COUNTRY|UY$ no te dará control de ningún estado ya que no tienes participación en la guerra"
- DR_TRUCE_BREAK:0 "Esto los obligaría a romper una tregua, costándoles £pol_power $COST|Y0$:"
+ DR_TRUCE_BREAK:0 "Esto los obligaría a romper una tregua, costándoles £pol_power $COST|Y0$:
  fabricate_claim:0 "Justificar reclamo"
  fabricate_claim_general_desc:0 "Al justificar un reclamo sobre la tierra de otra persona, podemos justificar una guerra con ellos ante nuestra población."
  spy_fabricate_claim_desc:0 "$SPY|H$ está justificando un reclamo sobre $STATE|Y$ en $TARGET|Y$.\nHa logrado $PROGRESS|G%1$."
@@ -1025,11 +1025,11 @@
  truce_general_extended_desc:1 "$COUNTRY1|UY$ tiene una tregua con $COUNTRY2|Y$"
  WARGOAL_MODIFIER_DESC:0 "Modificadores del objetivo de guerra"
  WARGOAL_COST_VOLUNTEERS_VALUE:1 "$COUNTRY|UY$ está enviando voluntarios a nuestros enemigos: $VALUE|G$"
- WARGOAL_COST_OUR_MODIFIER:1 "Modificadores de $COUNTRY|UY$:"
- WARGOAL_COST_THEIR_MODIFIER:1 "Modificadores de $COUNTRY|UY$:"
- DR_COMMUNIST_NOT_NEIGHBOUR:1 "$THEM|UY$ no es vecino de la facción:"
- DR_ATTITUDE:1 "$US|UY$ $ATTITUDE|Y$ hacia $THEM|Y$:"
- DR_PREFER_OTHER_FACTION:1 "$THEM|UY$ preferiría ser parte de $FACTION|Y$:"
+ WARGOAL_COST_OUR_MODIFIER:1 "Modificadores de $COUNTRY|UY$:
+ WARGOAL_COST_THEIR_MODIFIER:1 "Modificadores de $COUNTRY|UY$:
+ DR_COMMUNIST_NOT_NEIGHBOUR:1 "$THEM|UY$ no es vecino de la facción:
+ DR_ATTITUDE:1 "$US|UY$ $ATTITUDE|Y$ hacia $THEM|Y$:
+ DR_PREFER_OTHER_FACTION:1 "$THEM|UY$ preferiría ser parte de $FACTION|Y$:
  AI_MESSAGE_CAT1_MES1:0 "Buen trabajo siendo anexionado, $OTHER$. Todos estamos orgullosos de ti."
  AI_MESSAGE_CAT1_MES2:0 "Jajajajaja $OTHER$ es terrible en este juego."
  AI_MESSAGE_CAT1_MES3:0 "Aprende a jugar, novato $OTHER_ADJ$."

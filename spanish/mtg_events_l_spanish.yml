@@ -390,7 +390,7 @@
  mtg_usa_secure_asia.2.desc:2 "Tras extensas negociaciones y garantías de su seguridad personal, [From.GetLeader] ha aceptado permitir a nuestro Enviado Especial amplios derechos de consulta, lo que nos permite una influencia significativa sobre sus asuntos internos."
  mtg_usa_secure_asia.2.a:1 "Excelente."
  mtg_usa_secure_asia.3.t:1 "[From.GetNameDefCap] Desafiante"
- mtg_usa_secure_asia.3.desc:1 "Ha llegado un mensaje del gobierno [From.GetAdjective]:"
+ mtg_usa_secure_asia.3.desc:1 "Ha llegado un mensaje del gobierno [From.GetAdjective]:
  mtg_usa_secure_asia.3.a:1 'Valiente. Estúpido, ciertamente, pero valiente.'"
  mtg_usa_secure_asia.3.b:1 "No importan después de todo."
  mtg_usa_secure_asia.4.t:1 "EE.UU. demanda Control sobre Colonias"
@@ -581,7 +581,7 @@
  mtg_britain.3.d:2 "Como el Rey no ha mostrado intención de escuchar a su gobierno, [Root.GetLeader] no ha visto otra solución que disolverlo. En una declaración, dice 'es evidente que el gabinete no puede funcionar sin la confianza de su monarca. Al descartar repetidamente el consejo unánime de sus ministros, ha quedado claro que este consejo no es ni deseado ni observado, por lo que esta noche me reuniré con Su Majestad para ofrecer la renuncia del gabinete.'\n\nClaramente destinado como una protesta final contra la decisión del Rey, no se sabe si será exitosa. Tampoco se sabe a quién anunciará el Rey como sucesor de [Root.GetLeader], ni cuándo."
  mtg_britain.3.a:1 "Adiós. No detendrán al Rey."
  mtg_britain.4.t:1 "Los Dominios Rompen con la Corona"
- mtg_britain.4.d:1 "Como uno, los representantes de los gobiernos del Dominio nos han informado que romperán unilateralmente los lazos con la Corona. Citando el desprecio flagrante del Rey por las opiniones y deseos de los gobiernos del Dominio y de sus pueblos como la razón principal por la que la relación entre el Commonwealth británico ya no puede continuar.\n\nComo un funcionario del Commonwealth declaró en una entrevista acalorada"
+ mtg_britain.4.d:1 "Como uno, los representantes de los gobiernos del Dominio nos han informado que romperán unilateralmente los lazos con la Corona. Citando el desprecio flagrante del Rey por las opiniones y deseos de los gobiernos del Dominio y de sus pueblos como la razón principal por la que la relación entre el Commonwealth británico ya no puede continuar.\n\nComo un funcionario del Commonwealth declaró en una entrevista acalorada:
  mtg_britain.4.a:1 "Estamos impotentes para detenerlos - por ahora."
  mtg_britain.5.t:1 "El Matrimonio Real de Eduardo VIII"
  mtg_britain.5.d:1 "Por fin ha llegado la alegre fecha del Matrimonio Real. Multitudes se han reunido por miles a lo largo de la ruta que recorren la pareja desde el Palacio de Buckingham hasta la Abadía de Westminster.\n\nLa resistencia doméstica al matrimonio ha mostrado cada vez más su impotencia, a través de renuncias simbólicas y otras protestas vanas, y ahora parece casi silenciada. El último acto de este tipo fue la jubilación del Arzobispo de Canterbury, Cosmo Lang, y su posterior reemplazo por un individuo más... amable con los deseos del Rey.\n\nAnte la agitación política que esta crisis ha causado, las celebraciones en curso son profundamente necesarias para devolver una apariencia de normalidad a los asuntos públicos, y como punto de partida para resolver los problemas políticos actuales."
@@ -750,7 +750,7 @@
  mtg_britain.59.d:2 "La marcha en [ENG_blackshirt_march_state.GetName] resultó en grandes contraprotestas y extensos enfrentamientos en la calle. A pesar de los numerosos heridos e incluso algunas muertes, nuestras camisas negras lograron defenderse hasta que la policía intervino."
  mtg_britain.59.a:1 "¿Qué son unos pocos huevos rotos ante el futuro de la nación?"
  mtg_britain.60.t:1 "Discursos de Mosley contra [GER.GetName]"
- mtg_britain.60.d:1 "Desafiando las acusaciones de que es simplemente el perro faldero de [GER.GetLeader], Oswald Mosley hizo un discurso apasionante hoy. En él, afirmó la singularidad e individualidad del fascismo británico, y enfatizó la distinción entre sus políticas y las del dictador alemán. Concluyó con poderosas palabras"
+ mtg_britain.60.d:1 "Desafiando las acusaciones de que es simplemente el perro faldero de [GER.GetLeader], Oswald Mosley hizo un discurso apasionante hoy. En él, afirmó la singularidad e individualidad del fascismo británico, y enfatizó la distinción entre sus políticas y las del dictador alemán. Concluyó con poderosas palabras:
  mtg_britain.60.a:1 "La recepción pública parece ser bastante buena."
  mtg_britain.61.t:1 "[From.GetName] Apoya a los Leales Imperiales"
  mtg_britain.61.d:1 "Nos ha llegado a nuestra atención que [From.GetNameDef] está apoyando a los Leales Imperiales en nuestro país. Si se les deja sin oposición, sus actividades subversivas bien podrían culminar en una guerra civil a gran escala!"
@@ -829,7 +829,7 @@
  mtg_britain.80.d:1 "[From.GetNameDefCap] ha aceptado nuestras demandas y nos ha otorgado un control de gran alcance sobre su territorio."
  mtg_britain.80.a:1 "Bien - a través del Cáucaso y hacia Stalingrado!"
  mtg_britain.81.t:1 "[From.GetName] Rechaza Demandas"
- mtg_britain.81.d:1 "[From.GetNameDefCap] ha rechazado nuestras demandas. En palabras de sus representantes"
+ mtg_britain.81.d:1 "[From.GetNameDefCap] ha rechazado nuestras demandas. En palabras de sus representantes:
  mtg_britain.81.a:1 "Ellos lo pidieron."
  mtg_britain.82.t:0 "La Conferencia Imperial de [?global.year|0]"
  mtg_britain.82.d:0 "Durante los próximos dos meses, representantes del gobierno británico y los Dominions se reunirán en Londres para discutir asuntos que conciernen a todo el Imperio. Este es un excelente momento para discutir temas como la defensa, el comercio o la Apaciguamiento, con la esperanza de darle al Imperio la mejor oportunidad de sobrevivir a la crisis actual.\n\nAdemás, este puede ser el mejor momento para resolver con definitiva el asunto de la Federación Imperial, ya planteado repetidamente en conferencias imperiales anteriores. Si el futuro de la Mancomunidad Británica de Naciones será uno de una asociación laxa de naciones independientes y soberanas, o de una federación unida que pueda mantenerse firme ante la agitación global, podría decidirse en los próximos meses."

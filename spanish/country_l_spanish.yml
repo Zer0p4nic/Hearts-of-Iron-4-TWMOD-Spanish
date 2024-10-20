@@ -23,7 +23,7 @@
  MANPOWER:0 "Mano de obra"
  SERVICE_MANPOWER:1 "£manpower_texticon  Mano de obra para servicio:"
  SERVICE_MANPOWER_DESC:0 "La mano de obra de servicio es utilizada por diferentes tipos de equipos para mantener su funcionalidad."
- MAX_MANPOWER:0 "Máxima mano de obra:"
+ MAX_MANPOWER:0 "Máxima mano de obra:
  EXILE_COUNTRY_NORMAL_MANPOWER_DAILY_GROWTH:0 "\n    Ganancia diaria de §HLegitimidad§!: $AMOUNT|H^$"
  MANPOWER_TOTAL:0 "Mano de obra total: $MAX|0H*$"
  MANPOWER_USAGE:2 "Mano de obra libre: $FREE|^2H$$EXILE$\nMano de obra utilizada:\nEjército: $ARMY|^2H$\n    - En el campo: $FIELD|^2H$\n    - En entrenamiento: $TRAINING|^2H$\nAéreo: $AIR|^2H$\nMarina: $NAVAL|^2H$\nGuarnición: $GARRISON|^2H$"

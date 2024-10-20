@@ -166,7 +166,7 @@
  CONFIRMCHANGE_NAVY_LEADER_TEXT:0 "$NAME|H$ ya está asignado a otra §GFlota§! y será reasignado.\n¿Estás seguro de que quieres §Reasignar§! al §GComandante§!?"
  CONFIRMCHANGE_UNIT_TEMPLATE:1 "Cambiar Plantilla de División"
  CONFIRMCHANGE_UNIT_TEMPLATE_SINGLE:1 "¿Estás seguro de que quieres §YCAMBIAR§! la §YPlantilla de División§! a $TEMPLATE|H$ para esta §YUnidad§!? Puede tardar un tiempo en llegar el nuevo equipo."
- CONFIRMCHANGE_UNIT_TEMPLATE_MULTI:1 "¿Estás seguro de que quieres §YCAMBIAR§! la §YPlantilla de División§! a $TEMPLATE|H$ para estas $COUNT|Y$ §YUnidades§!? Puede tardar un tiempo en llegar el nuevo equipo."
+ CONFIRMCHANGE_UNIT_TEMPLATE_MULTI:1 "¿Estás seguro de que quieres §YCAMBIAR§! la §YPlantilla de División§! a $TEMPLATE|H$ para estas $COUNT|Y$ §YUnidades§!? Puede tardar un tiempo en llegar el nuevo equipo."													  
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_ENOUGHT:1 "$AMOUNT|0H$ $EQUIPMENT$ (§G$STOCK|0*$ disponible§!)"
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_NOT_ENOUGHT:1 "$AMOUNT|0H$ $EQUIPMENT$ (§R$STOCK|*0$ disponible§!)"
  CONFIRMCHANGE_UNIT_TEMPLATE_GAIN:0 "$AMOUNT|0H$ $EQUIPMENT$"
@@ -473,7 +473,7 @@
  NAVAL_CONFIRM_REMOVE_ALL_REGIONS_TEXT:0 "¿Estás seguro de que deseas §RELIMINAR TODAS LAS REGIONES§! para esta Flota?"
  NAVAL_NO_STRIKE_FORCE_IN_REGION:0 "Ninguna fuerza de ataque operando en la región"
  NAVAL_STRIKE_FORCE_STATUS_HEADER:0 "§HEstado de las Fuerzas de Ataque:§!"
- NAVAL_STRIKE_FORCE_STATUS_ENTRY:0 " - $NAME|H$:"
+ NAVAL_STRIKE_FORCE_STATUS_ENTRY:0 " - $NAME|H$:
  NAVAL_STRIKE_FORCE_STATUS_READY:0 "£trigger_yes£ listo para comprometerse"
  NAVAL_STRIKE_FORCE_STATUS_ENGAGING:0 "£trigger_yes£ moviéndose para comprometerse"
  NAVAL_STRIKE_FORCE_STATUS_ENGAGING_ANOTHER:0 "£trigger_no£ ocupado comprometiéndose con otro"
@@ -996,7 +996,7 @@
  ACE_PILOT_CANT_ASSIGN_KIA:0 "No se puede asignar al piloto As, debido a §RESTADO KIA§!."
  ACE_PILOT_CANT_ASSIGN_UNFAMILIAR:0 "No se puede asignar al piloto As, debido a §Rno estar familiarizado con este tipo de avión§!."
  ACE_PILOT_ASSIGN_ACE:0 "Haz clic para seleccionar al Piloto As."
- ACE_PILOT_ELIGIBLE_TYPES:0 "Puede ser asignado a Alas Aéreas de los tipos:"
+ ACE_PILOT_ELIGIBLE_TYPES:0 "Puede ser asignado a Alas Aéreas de los tipos:
  ace_Erich_Hartmann_desc:0 "§LErich Alfred Hartmann. Nacido el 19 de abril de 1922. Apodado 'Bubi' por sus compañeros. Considerado el mejor piloto As de la Luftwaffe alemana.§!"
  RELEASE:1 "Liberar Nación"
  QUIT_TITLE:0 "Salir del Juego"
@@ -1337,7 +1337,7 @@
  NAVY_REPAIR_POLICY_3:1 "§GPrioridad de reparación - Alta.§!\nLa fuerza de tarea decidirá regresar a casa si los barcos han sufrido daños §RLeves§!"
  NAVY_REPAIR_POLICY_DESC:1 "El sistema de reparación y retorno permite enviar barcos dañados a casa para reparaciones, sin la acción del jugador. La configuración de prioridad permite al jugador elegir qué es más importante...\n¿Continuar la misión a cualquier costo?\n¿O sobrevivir a cualquier costo?"
  NAVY_REPAIR_POLICY_BLOCK_BECAUSE_DETACHED:0 "§RNo es posible cambiar la política de reparación para fuerzas de tarea separadas§!"
- NAVY_REPAIR_POLICY_CLICK_TO_CHANGE_TO:0 "§GHaz clic§! para cambiar a:"
+ NAVY_REPAIR_POLICY_CLICK_TO_CHANGE_TO:0 "§GHaz clic§! para cambiar a:
  NAVY_REPAIR_POLICY_SPLIT:0 "§HSeparación automática§! ahora está $ON_OFF|H$.\n"
  NAVY_SPLIT_TASKFORCE_IN_HALF:0 "Dividir la fuerza de tarea seleccionada a la mitad"
  NAVY_SPLIT_TASKFORCE_IN_HALF_TOO_SMALL:0 "§RLa fuerza de tarea es demasiado pequeña para dividirla§!"
@@ -1905,7 +1905,7 @@
  SUPPLY_NODE_PRIORITY:0 "§HPrioridad de Trenes§!\nEstablecer prioridad del Centro de Suministro para asignar Trenes\n§GHaz clic§! para alternar entre prioridades."
  SUPPLY_NODE_MOTORIZATION_PRIORITY:1 "§HNivel de Motorización§!\nLa Motorización del Centro de Suministro usa camiones del Almacén, y extiende el alcance del suministro del Centro y la cantidad de suministro proporcionado a las provincias.\n§GHaz clic§! para alternar entre prioridades."
  SUPPLY_FLOW_PROVINCE_ACCUMULATED_HEADER:1 "§HSuministro de Centros§! en $PROVINCE|H$"
- SUPPLY_CAP_AVAILABLE:0 "Suministro Restante en la Provincia:"
+ SUPPLY_CAP_AVAILABLE:0 "Suministro Restante en la Provincia:
  SUPPLY_FLOW_PROVINCE_ACCUMULATED:0 "Total: $VALUE|H$ £supply_texticon£"
  SUPPLY_FLOW_PROVINCE_BREAKDOWN:1 "$VALUE|H$ de $PROVINCE$"
  SUPPLY_FLOW_PROVINCE_BREAKDOWN_OWNER:1 "$VALUE|H$ de $PROVINCE$ ($OWNER$)"

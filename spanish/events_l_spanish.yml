@@ -2845,7 +2845,7 @@
  britain.19.t:0 "Se establece el Gobierno de la India Libre"
  britain.19.d:0 "Con el apoyo de Japón, los nacionalistas indios han establecido un gobierno en el exilio, el Azad Hind.\n\nLos nacionalistas están difundiendo propaganda en el Raj e incentivando la deserción de los sepoys. Si bien por ahora carecen de apoyo, sus esfuerzos eventualmente podrían volverse peligrosos."
  britain.19.a:0 "Una misión inútil!"
- ENG_RAJ_azad_hind_tooltip:0 "El apoyo nacionalista seguirá creciendo a menos que se contrarreste con la promesa de eventual independencia. §RA ¡El apoyo superior al 30% llevará a la revuelta!§!"
+ ENG_RAJ_azad_hind_tooltip:0 "El apoyo nacionalista continuará creciendo a menos que se contrarreste con la promesa de una eventual independencia. R
  britain.20.t:0 "Azad Hind lidera la revuelta india"
  britain.20.d:0 "El Azad Hind, el gobierno en el exilio de la India Libre, ha estado difundiendo propaganda y buscando apoyo entre la gente del Raj. A pesar de que la importancia de que el Imperio trabaje unido es mayor que nunca, han decidido que este es el momento de atacar."
  britain.20.a:0 "No, el Imperio debe mantenerse unido!"
@@ -3512,7 +3512,7 @@
  britain.100.a:0 "Recordemos Gallipoli"
  britain.100.b:0 "Esta reclamación es inaceptable"
  britain.101.t:0 "Turquía quiere unirse a los Aliados"
- britain.101.d:0 "Durante mucho tiempo, entre los líderes aliados y [TUR.GetLeader] se estaban llevando a cabo negociaciones para abrir un nuevo frente. El gobierno turco, expresando sus preocupaciones sobre la guerra exacerbada en Europa, quiere unirse a las filas de los Aliados y, si es necesario unirse a la guerra, quieren preservar sus tierras mediante asistencia de equipo con el requisito previo."
+ britain.101.d:0 "Durante mucho tiempo, entre los líderes aliados y [TUR.GetLeader] se estaban llevando a cabo negociaciones para abrir un nuevo frente. El gobierno turco, expresando sus preocupaciones sobre la guerra exacerbada en Europa, quiere unirse a las filas de los Aliados y, si es necesario unirse a la guerra, quieren preservar sus tierras mediante asistencia de equipo con el requisito previo.
  britain.101.a:0 "Lo aceptamos con gusto"
  britain.101.b:0 "No es necesario"
  news.1250.t:0 "Remilitarización de los estrechos"

@@ -2936,7 +2936,7 @@
  CCP_light_tank_equipment_4:0 "Type 62"
  CCP_light_tank_equipment_4_short:0 "Type 62"
  CCP_light_tank_artillery_equipment_3:0 "Type 64 (Art)"
- CCP_light_tank_artillery_equipment_3_short:0 "Type 64 (Art)"
+ CCP_light_tank_artillery_equipment_3_short:0 "Type 64 (Art
  CCP_light_tank_aa_equipment_1:0 "ZSU-12.7"
  CCP_light_tank_aa_equipment_1_short:0 "ZSU-12.7"
  CCP_light_tank_aa_equipment_2:0 "ZSU-12.7-2"
@@ -2965,7 +2965,7 @@
  CCP_medium_tank_destroyer_equipment_3_short:0 "SU-100"
  CCP_medium_tank_aa_equipment_1:0 "ZSU-37B"
  CCP_medium_tank_aa_equipment_1_short:0 "ZSU-37B"
- CCP_medium_tank_aa_equipment_2:0 "ZSU-37C"
+ CCP_medium_tank_aa_equipment_2:0 "ZSU-37C
  CCP_medium_tank_aa_equipment_2_short:0 "ZSU-37C"
  CCP_medium_tank_aa_equipment_3:0 "ZSU-57-44"
  CCP_medium_tank_aa_equipment_3_short:0 "ZSU-57-44"
@@ -5780,9 +5780,9 @@
  panzer_vii_equipment_3_short:0 "Zerberus S-Hv.TK"
  panzer_vii_equipment_3_desc:0 "Pzkpfw.VIII / E-200 'Zerberus/Cerberos', era un tanque superpesado de 205 toneladas. Estaba armado con un cañón KwK 44 L/38 de 150 mm. Tenía una torreta E-100 considerablemente alargada (en 1.5 metros) pero con una inclinación más pronunciada. Dado que el Maus estaba subalimentado, un mejorado Maybach HL232 Turbo con 1200 HP ahora permitía una velocidad máxima en carretera de 20 km/h. Como armamento secundario, tenía una protuberancia blindada que albergaba un cañón gemelo MK108 de 30 mm en el techo de la torreta derecha. Era capaz de disparar a objetivos terrestres y aéreos a una elevación de 70°. No menos de cuatro Nahverteidigungswaffen (armas de defensa cercana) de 92 mm estaban en las esquinas del techo del compartimiento de la torreta, capaces de rociar cada superficie circundante con metralla. Debido a la inclinación más pronunciada, el blindaje de la torreta era más delgado que el del Maus, con alrededor de 200 mm en el frente y 170 mm en los lados, lo que lo hacía mejor protegido contra ataques a distancia y un objetivo ligeramente más difícil para los bombardeos aéreos, pero más vulnerable a las minas lapa."
  #
- # Avión de Transporte #
- transport_plane_equipment_1:0 "Avión de Transporte Básico"
- transport_plane_equipment_1_short:0 "Transporte Básico (T.P)"
+ # Transport Plane #
+ transport_plane_equipment_1:0 "Basic Transport Plane"
+ transport_plane_equipment_1_short:0 "Basic Transport (T.P)"
  transport_plane_equipment_1_desc:0 "§LAviones utilizados para transportar tropas en misiones de paracaidismo.§!"
  
  transport_plane_equipment_2:0 "Avión de Transporte Mejorado"
@@ -6333,11 +6333,11 @@
  GER_transport_plane_equipment_1_short:0 "Ju-52 'Tante Ju' (T.P)"
  GER_transport_plane_equipment_1_desc:0 "§LAviones utilizados para transportar tropas en misiones de paracaidismo.§!"
  
- GER_transport_plane_equipment_2:0 "Junkers Ju-252 Avión de Transporte"
+ GER_transport_plane_equipment_2:0 "Junkers Ju-252 Transport Plane"
  GER_transport_plane_equipment_2_short:0 "Ju-252 (T.P)"
  GER_transport_plane_equipment_2_desc:0 "§LAviones utilizados para transportar tropas en misiones de paracaidismo.§!"
  
- GER_transport_plane_equipment_3:0 "Junkers Ju-290 Avión de Transporte"
+ GER_transport_plane_equipment_3:0 "Junkers Ju-290 Transport Plane"
  GER_transport_plane_equipment_3_short:0 "Ju-290 (T.P)"
  GER_transport_plane_equipment_3_desc:0 "§LAviones utilizados para transportar tropas en misiones de paracaidismo.§!"
  ###Japan#######
