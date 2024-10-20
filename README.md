@@ -16,8 +16,8 @@
 
 	  1.Descarga la carpeta "spanish" de la traducción.
       2.Ubica la carpeta raíz del mod a traducir en tu sistema (donde tienes el mod instalado).
-      3.Copia la carpeta "spanish" descargada.
-      4.Pega la carpeta "spanish" dentro de "localisation" en la carpeta raíz del mod.
+      3.Copia la carpeta "spanish y replace" descargada.
+      4.Pega la carpeta "spanish y replace" dentro de "localisation" en la carpeta raíz del mod.
 	  5.Listo a jugar en español!.
 	  
 	  PREGUNTAS FRECUENTES:
