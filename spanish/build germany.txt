@@ -1,0 +1,280 @@
+**INICIO DEL JUEGO**
+
+**EJÉRCITO**
+
+- Escoge la Wehrmacht
+- Cola 90 Wachtruppen
+- Duplica el diseñador de División de Infantería y hazlo de 30W con 11 Infantería y 8 Arty para la Guerra Civil Española (GCE)
+- Organiza el ejército como prefieras, pero envía 4 divisiones para la GCE
+
+**INDUSTRIA**
+
+- Cancela todo el comercio
+- Cola fábricas civiles en estados con infraestructura del 24% y 21%
+- Configura la producción a:
+
+    ```
+    Armas 30
+    Uniformes 13
+    Equipo de Apoyo 7
+    Artillería Ligera 4
+    AT 3
+    Caballos 2
+    Camiones 13
+    Vehículos 8
+    Radios 7
+    He 51 B-1 Caza 1
+    He 50A CAS 1
+    Equipo Marino 1
+    Coche Blindado 2
+    Pak Arty 2
+    AA 3
+    Avión de Transporte 1
+    ```
+
+- Restablece el comercio en consecuencia (permite déficits de recursos si están por debajo de la mitad)
+
+**MARINA**  
+(Puedes modificar esta sección como quieras, pero la marina alemana no es muy importante con esta construcción)
+
+- Elimina el Admiral Hipper y 2 Scharnhorst, baja todos los demás barcos en cola a 1 y termínalos
+- Mejora el motor del submarino de 1930 a nivel 2, cola infinita 1 al final de la lista
+- Duplica la Clase Zerstorer 1934A, conviértelo en un colocador de minas, cola infinita 2 al final
+- Entrena tu marina con Shift para obtener algo de XP y hacer que alcancen el máximo nivel de veterano
+
+**FUERZA AÉREA**
+
+- Un jugador: Elimina todo excepto 100 cazas y 100 CAS para la GCE, aumenta según lo permita
+- Multijugador: Envía solo cazas a España
+
+**AGENCIA**
+
+- Inicia la Agencia
+- Técnicas de Interrogación
+- Forma Departamento
+- Defensa Pasiva x4
+- Guerra Psicológica
+- Píldoras de Suicidio
+
+**ENFOQUES**
+
+1. Renania
+2. Reforma del Auswärtige Amt
+3. Plan Cuatrienal de Goering (Hjalmar Schacht)
+4. Schutzstaffel
+5. Reemplazar al Embajador en Japón
+6. Cooperación Industrial con Japón
+7. Reichsautobahnen
+8. Frente Laboral Alemán
+9. Servicio Laboral Alemán
+10. Programa de Agosto
+11. Ampliar las Obras Opel
+12. Achtung Panzer
+13. Auftragstaktik
+14. Luftwaffe
+15. Banco de Aviación Alemán
+16. Heinkel
+17. Avanzar Hacia la Autarquía
+18. Anschluss
+19. Obras Hermann Goering
+20. Organización Todt
+21. Ampliar la Cooperación Entre la Industria Militar y Civil
+22. Oficina de Economía de Armamento y Defensa
+23. Demandar Sudetes
+24. Primer Premio de Viena
+25. Destino de Checoslovaquia
+26. Tomar Control de Skoda
+27. Nibelungenwerk
+28. Kriegsmarine
+29. Preparar la Kriegsmarine para la Guerra
+30. Aumentar Nuestra Capacidad Ofensiva
+31. DEA
+32. Caucho Sintético
+33. Mejorar la Motorización
+34. Fallschirmjager
+35. Tácticas de Infantería
+36. Fábricas de Caucho Sintético
+37. Pacto Molotov-Ribbentrop
+38. Reafirmar Reclamos Orientales
+39. Negociaciones de Danzig
+40. Expansión de la Artillería
+41. Brazo de Cazadores
+42. División Panzer
+43. Movilizar el Reich
+
+**TECNOLOGÍA**  
+(Salto entre ciertas tecnologías, priorizando según sea necesario)
+
+1. Industria Concentrada
+2. Computación Mecánica
+3. Red Ferroviaria I
+4. Avances Agrícolas I
+5. Vehículos de 1936 (encontrados en la pestaña de tanques)
+6. Doctrina de Guerra Móvil
+7. Excavación I
+8. Doctrina Aérea
+9. Fábricas de Tanques Pequeños
+10. Fábricas Automotrices Medianas
+11. Fábricas de Armas Pequeñas Medianas
+12. Fábricas de Uniformes Medianas
+13. Fábricas de Artillería Medianas
+14. Fábricas de Aviones Ligeros Medianos (reemplaza la doctrina aérea por esto)
+15. Procura un 50% de bonificación en Industria Concentrada II y Refinamiento de Combustible II e investiga
+16. Fábricas de Tanques Medianos
+17. Motorización en Masa
+18. Doctrina de Tierra
+19. Doctrina Aérea
+20. Doctrina Naval (50xp)
+21. Compañía de Señales I
+22. Panzer 3
+23. Panzer 4
+24. Doctrina Aérea
+25. Construcción II
+26. Mantenimiento de Herramientas
+27. Industria Concentrada II (reemplaza la doctrina naval con esto, hecho alrededor de finales de 1936)
+28. Herramientas Mejoradas
+29. Obras Civiles II
+30. Obras de Infraestructura II
+31. Bombardero Pesado Do-19
+32. Ju-87 A
+33. Refinamiento de Combustible II
+34. Procura un 50% en Máquina de Computación e investiga
+35. Radio de HQ Divisional
+36. Doctrina de Tierra
+37. Doctrina Aérea
+38. Avances Agrícolas II
+39. Panzer 3E
+40. He 100
+41. Red Ferroviaria II
+42. Planta de Petróleo
+43. Red de Carreteras II (después de conseguir Construcción 3 y saltar al He 100)
+44. Excavación II (salta sobre el Panzer 3E)
+45. Doctrina de Tierra
+46. Habilidades y Entrenamiento
+47. Máquina de Computación
+48. Snorkel Básico para Submarinos
+49. Submarino de 1937
+50. sIG 33 Bison (1938 SPG en el Panzer de 1934)
+51. Procesamiento de Caucho
+52. Molino de Acero
+53. Detección por Radio
+54. Radio de HQ del Cuerpo
+55. Radio de Infantería (Discurso de Siemens)
+56. Radio de Camiones
+57. Mejora del AT
+58. Doctrina de Tierra
+59. Mejora del Carro de Artillería Ligera
+60. Doctrina Naval
+61. Doctrina Aérea
+62. Puentes Plegables Móviles
+63. Equipo de Paracaidistas
+64. Equipo de Infantería Mejorado
+65. Compañía de Logística II
+66. Doctrina Naval
+67. Compañía de Apoyo Anfibia
+68. Doctrina Aérea
+69. Herramientas Avanzadas
+70. Industria Concentrada III
+71. Doctrina de Tierra
+72. Construcción III
+73. Radio de Artillería
+74. Vehículo de 1939
+75. Doctrina Aérea
+76. Stuka de 1939
+77. Equipo Mejorado de Montaña
+78. Grandes Fábricas de Aviones Ligeros
+79. Grandes Fábricas de Tanques
+80. Pak 38
+81. Grandes Fábricas Automotrices
+82. Doctrina de Tierra
+83. Mejora del AA
+84. Doctrina Aérea
+85. Refinamiento de Combustible III
+86. Grandes Fábricas de Armas Pequeñas
+87. Semiorugas Alemanas Básicas
+88. Fuerzas Especiales
+89. Flak 41 de 8.8cm
+90. FW-190A
+91. Gewehr 41w
+92. Panzer 3 F
+
+**PODER POLÍTICO (PP)**
+
+1. Disminuir Turnos de Fábrica
+2. Rudolf Hess
+3. Wilhelm Frick
+4. Desmilitarización
+5. Hjalmar Schacht
+6. Aumentar Lujo
+7. I.G Farben
+8. Heinz Guderian
+9. MAN
+10. Opel
+11. Focke-Wulf
+12. Disminuir Turnos de Fábrica (vuelve a aparecer alrededor de finales de mayo de 1937)
+13. Erich Von Manstein
+14. Aumentar Lujo
+15. Blohm & Voss
+16. Reemplazar a Hjalmar por Georg Thomas
+17. Discurso sobre la Industria (marzo de 1939)
+
+
+"Para derrotar a Francia, necesitas tanques, fuerza aérea y tal vez logística, depende de la estrategia que uses. Normalmente voy con panzer IV medianos por su mejor ataque blando. Puede que quieras mejorarlos con experiencia, aunque. Normalmente uso radio de tanque y motor para mayor penetración y velocidad. Además, obtienes muchos tanques ligeros a través de los enfoques, así que asigna como 5 fábricas militares a ellos. Realmente no querrás que consuman suministros en Barbarroja, pero aún son útiles en Polonia y Francia. Y, aunque vayas con panzer IV, aún podrías querer investigar 2 de las tecnologías del panzer III para obtener STUGs, ya que tienen una penetración bastante sólida. Luego, con la fuerza aérea, todo lo que necesitas es básicamente muchos CAS y Cazas, 30-40 fábricas militares en cazas y 20-30 en CAS son más que suficientes. Pero no olvides mejorarlos con experiencia, deberías obtener alrededor de ~500 al enviar bombarderos ligeros a España. Para los cazas, básicamente mejora todo, pero si tienes poca experiencia, podrías ignorar la confiabilidad. Para los CAS, todo lo que necesitas es alcance y ataque. También puedes intentar mejorar el motor para que el AA no los derribe tanto, pero realmente no estoy seguro de si funciona."
+
+
+
+
+BUILDADADAD 
+
+Ejército: 
+ - 3 generales con 24 divisiones a Polonia, y 5 generales con 24 divs a los soviéticos. Esa es la línea del frente. - Muchos generales como puedas en tanques. (Guderian y Von Manstein como generales y Helmann Balck como mariscal de campo). - 24 divisiones de guarnicion en Francia y 24 en Italia, Grecia y sur de Francia.
+ 
+ Estrategia:
+ - Empieza a producir muchas radios, equipos de apoyo, armas, camiones, etc. Cuando consigas 1938 cazas pon 25 fábricas y cuando consigas 1936 tanques haz lo mismo. 10 en CAS debería estar bien. Cuando Francia capitule aumenta 50 a tanques y 25 a CAS. - A los soviéticos no les importa el territorio, solo rodea y mata todas las divisiones que puedas.
+ 
+ 
+ 
+ "Alemán MP Build:  
+Enfoques:  
+Plan Cuatrienal de Goering, Renania, Reformar el Ausswärtige Amt, Reemplazar al embajador en Japón, Schutzstaffel, Frente de Trabajo Alemán, Autobahn del Reich, Servicio de Trabajo del Reich, Wehrmacht, Programa de Agosto, Expandir las Fábricas de Opel, Luftwaffe, Banco de Aviación Alemán, Expandir las Fábricas de Aeronaves Alemanas, Fokker Wulf, Henkel, Achtung Panzer, Anschluss, Reafirmar Reclamos en el Este, Avanzar hacia la Autarquía, Reichswerke Hermann Göring, Organización Todt, Exigir Sudetenland, Primer Premio de Viena, El destino de Checoslovaquia, Expandir la cooperación entre fábricas civiles y militares, Oficina de armamento y defensa, Niebelungenwerke, Tomar el control de CKD, Tomar el control de Skoda, Deutsche Erdöl AG, Caucho Sintético, IG Farben Sintéticos, Auftragstaktik, Tácticas de Infantería, Aumentar nuestras capacidades ofensivas, Mejorar la motorización, Licuefacción de Carbón, División Panzer, Pacto Molotov-Ribbentrop, Danzig o Guerra, Fortalecer la Fuerza Panzer, Movilizar el Reich, Alrededor de la Línea Maginot, Operación Wasserübung, Apoyar Panzer, Expandir el petróleo austriaco, Fallschirmjäger, Expandir el Reichsarbeitsdienst, Conocimiento Occidental.  
+  
+PP:  
+Disminuir los Turnos de Fábrica, Hjalmar Schacht, Dirigirse a la Juventud Hitleriana, Dirigirse a los trabajadores en las fábricas de Siemens en Berlín, Wilhelm Frick, Rudolf Hess, IG Farben, Dirigirse a las Industrias Krupp en Essen, Desmilitarización, Instituir la Censura de Prensa, Opel, Focke Wulf, Heinz Guderian, Inaugurar la Autobahn, Disminuir Turnos de Fábrica, Instituir la Censura de Prensa, Erich von Manstein, Saludar a la Multitud en Heldenplatz, Aumentar los Lujo, Desmilitarización, Denunciar la economía de libre mercado en el Reichstag sobre la crisis de los Sudetes, Disminuir Turnos de Fábrica.  
+  
+Agencia:  
+Crear Agencia, Defensa Pasiva 1, Defensa Pasiva 2, Defensa Pasiva 3, Defensa Pasiva 4, Tinta Invisible, Pastillas de Suicidio, Técnicas de Interrogación, Economía/Civil, Departamento del Ejército, Departamento Naval, Departamento de la Fuerza Aérea, Formar Departamento, Grupo de Interceptación de Radio 1, Grupo de Interceptación de Radio 2, Escuela de Cifrado del Gobierno 1, Escuela de Cifrado del Gobierno 2, Anti-Partisanos 1, Anti-Partisanos 2.  
+  
+Construcción:  
+Construir fábricas civiles hasta tener 200, luego construir fábricas militares hasta tener suficiente, luego construir caucho sintético y después lo que desees.  
+  
+Investigación:  
+Ranura 1:  
+Retraso, Defensa Elástica, Cabeza de Lanza Blindada, Schwerpunkt, Blitzkrieg, Kampfgruppe, Radio de Artillería, Brigada de Bomberos.  
+Ranura 2:  
+Superioridad Aérea, Experiencia en Combate Aéreo, Vuelo a Baja Altitud, Interdicción Aérea en el Campo de Batalla, Bombardeo en Puntos Clave, Aeródromos Improvisados Dispersos, Caza y Destrucción, Coordinación de Defensa Aérea Estratégica, Superioridad Aérea Abrumadora, CAS de 1939, FW 1940, Logística 3, Escuadra de Lanzallamas 2.  
+Ranura 3:  
+Computación Mecánica, Cuartel General de División, Radio del Cuartel General del Cuerpo, CAS 37, Mejora de Antitanque, Escuadra de Lanzallamas, Industria Dispersa 3, Pequeñas Fábricas de Tanques, Fábricas de Tanques Medianos, Grandes Fábricas de Tanques, Fábricas Avanzadas de Tanques.  
+Ranura 4:  
+Industria Dispersa 1, Fábricas de Automóviles Medianos, Industria Dispersa 2, Habilidades y Entrenamiento, Pequeñas Fábricas de Armas, Construcción 3, Obras Civiles 3, Avances Agrícolas 3, Grandes Fábricas de Automóviles, Grandes Fábricas de Armas.  
+Ranura 5:  
+Red Ferroviaria 1, Construcción 2, Obras Civiles 2, Avances Agrícolas 2, Excavación 2, Refinación de Combustible 2, Obras de Infraestructura 3, Red Ferroviaria 3, Grandes Fábricas de Artillería, Grandes Fábricas de Uniformes.  
+Ranura 6:  
+Avances Agrícolas 1, Mantenimiento de Herramientas, Henkel 100, Pruebas de Encontrar Rango, Compañías de Logística 2, Máquinas de Cálculo, Vehículos Ligeros de Guerra Media, Pak 38, Mejores Compañías de Montañeros, Equipos de Comando.  
+Ranura 7:  
+Bombardero Estratégico 1, Compañías de Señales 1, Equipo de Paracaidistas, Motorización Masiva, Panzer 4 ausführung E, Puentes Móviles de Pelotón, Radio de Camión, Fuerzas Especiales, Compañías de Apoyo Anfibio, Mecanizadas, Marder 4, Compañías de Mantenimiento 2.  
+Ranura 8:  
+Vehículos Ligeros de Guerra Temprana, Excavación 1, Fábricas de Uniformes Medianos, Submarinos de 1937, Planta de Aceite, Procesamiento de Caucho, Fábricas de Artillería Mediana, Mejora de Antiaéreo, Flak de 8,8 cm, Artillería Mediana 3, Mejora de Carro de Artillería Mediano.  
+Ranura 9:  
+Panzer 4, Herramientas Mejoradas, Obras de Infraestructura 2, Red Ferroviaria 2, Radio de Infantería, Herramientas Avanzadas, Excavación 3, Panzer ausführung F, Grille 4, Compañías de Señales 2.  
+Ranura 10:  
+Herramientas Mejoradas.  
+  
+Industria:  
+Armas 18, Equipo de Campo 12, Equipo de Apoyo 10, Equipo de Radio 8, Artillería Mediana 12, Antitanque 3, Camiones 15, Coches 10, Caballos 2, Bombarderos Medianos 5, Aviones de Transporte 1.  
+Cambiar los bombarderos medios a bombarderos estratégicos,  
+Colocar 5 en Antiaéreos, 19 en armas y 14 en equipo de campo.  
+Colocar cazas a 40 y CAS a 10.  
+Luego colocar 3 líneas de producción de tanques medianos, una con 60, una con 40 y una con 35.  
+  
+Ejército:  
+Entrena todas tus divisiones hasta obtener 2 puntos de experiencia militar, luego entrena tantas guarniciones de 8w como puedas y luego elimina todo excepto tus 4 mejores divisiones de infantería."

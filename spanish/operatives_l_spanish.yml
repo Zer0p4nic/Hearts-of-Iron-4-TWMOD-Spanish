@@ -108,7 +108,7 @@
  AGENCY_DEFENSE_LEVEL_DESC:0 "La contrainteligencia se utiliza para obstaculizar a los Operativos enemigos. Cuanto más alta sea, más probable será que detengas a los Operativos y más tiempo y dinero costará realizar Operaciones en tu contra."
  CAN_RECRUITE_OPERATIVE:0 "§GHaz clic§! para reclutar un operativo para este slot."
  CANNOT_RECRUITE_OPERATIVE_NO_SLOT:0 "§RNo hay slots disponibles para reclutar un operativo§!"
- CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "Puedes obtener el primer slot construyendo la agencia de inteligencia. Otros slots estarán disponibles después de la 5ª mejora o después de asignar al asesor §HIllusive Gentleman§!\nComo jefe de espías, se desbloquean más slots de operativos al tener más países en tu facción. Los títeres o países con muy pocas fábricas no contribuyen a más slots de operativos."
+ CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "Puedes obtener el primer slot construyendo la agencia de inteligencia. Otros slots estarán disponibles después de la 5ta mejora o después de asignar al asesor §HIllusive Gentleman§!\nComo jefe de espías, se desbloquean más slots de operativos al tener más países en tu facción. Los títeres o países con muy pocas fábricas no contribuyen a más slots de operativos."
  CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER: "El número máximo de operativos es $NUMBER|H$."
  CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED:0 "§RUn operativo está en entrenamiento y estará disponible en $DAYS|H$ días§!"
  CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED:0 "§RAgencia de Inteligencia aún no creada§!"

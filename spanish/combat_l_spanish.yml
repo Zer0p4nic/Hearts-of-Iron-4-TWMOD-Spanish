@@ -36,7 +36,7 @@
  TACTICS_WIDTH_VALUE:0 "$VALUE|=%0Y$"
  TACTIC_CURRENTLY_COUNTERED:0 "§RLa táctica ha sido contrarrestada!§!"
  TACTIC_COUNTERED_BY:0 "Contrarrestado por: $NAME|H$"
- TACTIC_COUNTERS:0 "Contrarresta:
+ TACTIC_COUNTERS:0 "Contrarresta: "
  TACTIC_FILTER_ALL:0 "Mostrar todas las tácticas."
  TACTIC_FILTER_DEFEND:0 "Mostrar tácticas defensivas."
  TACTIC_FILTER_ATTACK:0 "Mostrar tácticas ofensivas."
@@ -241,7 +241,7 @@
  COMBAT_OTHER_COMMANDER_DESC:0 "Comandado por: $NAME|H$\nHabilidad: $SKILL|Y$"
  DIFFERENT_COMMANDER_DESC:0 "Una división tiene un comandante diferente asignado que el que lidera la batalla. Este comandante será el que le otorgue bonificaciones, excepto por la táctica seleccionada en la batalla, que depende del comandante a cargo."
  LACK_OF_FUEL_DESC:1 "Cuando una división tiene poco combustible, se ralentizará y sus batallones blindados tendrán sus estadísticas reducidas."
- COMBAT_TRAIT_LIST_HEADER:0 "\n\nRasgos:
+ COMBAT_TRAIT_LIST_HEADER:0 "\n\nRasgos: "
  COMBAT_DETAIL_TRAIT_NAME:0 "$NAME|H$"
  COMBAT_DETAIL_TRAIT_SEPARATOR:0 ", "
  CARRIER_EFFICIENCY:1 "Eficiencia Aérea: $VAL|Y%$"

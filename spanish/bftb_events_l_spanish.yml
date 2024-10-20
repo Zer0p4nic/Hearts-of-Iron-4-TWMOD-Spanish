@@ -1477,9 +1477,9 @@
 
  bftb_bulgaria_balkan_federation_project_ready_tt:0 "£GFX_trigger_yes El Proyecto de la Federación Balcánica está listo."
  bftb_bulgaria_balkan_federation.7_tt:0 "Efectos cuando se complete la decisión:\n"
- BUL_italy_yields_states_to_root_tt:0 "[ITA.GetFlag]§Y[ITA.GetNameDefCap]§! transfiere el control de los siguientes estados a §Y[ROOT.GetNameDef]§!:
- BUL_italy_yields_states_to_others_tt:0 "[ITA.GetFlag]§Y[ITA.GetNameDefCap]§! transfiere el control de los siguientes estados a §Yotros países balcánicos§!:
- bftb_bulgaria_balkan_federation_turkish_states_tt:0 "[BUL.GetFlag]§Y[BUL.GetNameDefCap]§! se convierte en propietario y controlador de:
+ BUL_italy_yields_states_to_root_tt:0 "[ITA.GetFlag]§Y[ITA.GetNameDefCap]§! transfiere el control de los siguientes estados a §Y[ROOT.GetNameDef]§!: "
+ BUL_italy_yields_states_to_others_tt:0 "[ITA.GetFlag]§Y[ITA.GetNameDefCap]§! transfiere el control de los siguientes estados a §Yotros países balcánicos§!: "
+ bftb_bulgaria_balkan_federation_turkish_states_tt:0 "[BUL.GetFlag]§Y[BUL.GetNameDefCap]§! se convierte en propietario y controlador de: "
 
  bftb_bulgaria_fate_of_the_balkans.1.t:0 "[BUL.GetNameDefCap] Demanda que nos Unamos a [BUL.GetFactionName]"
  bftb_bulgaria_fate_of_the_balkans.1.desc:0 "Un enviado [BUL.GetAdjective] llegó hoy a la capital para reunirse con [ROOT.GetLeader] y básicamente exigir la membresía de [ROOT.GetNameDef] en [BUL.GetFactionName]. Según [GetBulgarianLeader], [BUL.GetNameDef] desarrollará programas de cooperación en asuntos de investigación y defensa y garantizará la seguridad y soberanía de todos los estados miembros de la alianza. Sin embargo, advirtió el diplomático, cualquier nación balcánica que se niegue a unirse a la alianza será considerada enemiga."

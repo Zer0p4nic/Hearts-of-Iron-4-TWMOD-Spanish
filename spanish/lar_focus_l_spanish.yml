@@ -49,7 +49,7 @@
  SPA_bolster_offensive_infrastructure_desc:1 "El mayor cuello de botella en nuestra planificación ofensiva es nuestra incapacidad para proporcionar suministros suficientes a nuestras unidades en la línea del frente. Con un enfoque en mejorar la infraestructura en estos sectores, nuestras operaciones ofensivas deberían fortalecerse enormemente."
  SPA_bolster_offensive_infrastructure_tt:0 "Requiere la Guerra Civil Española.\nAgrega §Y1 Infraestructura§! a 3 estados aleatorios en la línea del frente.\n"
  SPA_the_fifth_column:0 "La Quinta Columna"
- SPA_the_fifth_column_desc:1 "En palabras de Emilio Mola:
+ SPA_the_fifth_column_desc:1 "En palabras de Emilio Mola: 'A medida que mis cuatro columnas se acercan a Madrid, una quinta columna de simpatizantes se levantará desde dentro de la ciudad y socavará las defensas republicanas desde adentro'. Organizaremos estas 'Quintas Columnas' en todas las ciudades que nos acerquemos, lo que nos dará una ventaja decisiva."
  SPA_the_fifth_column_tt:0 "Desbloquea las decisiones de §YActivar los Quinto Columnistas§!, permitiendo la creación de levantamientos menores en territorio enemigo.\n"
  SPA_emergency_munitions_corporations:0 "Corporaciones de Municiones de Emergencia"
  SPA_emergency_munitions_corporations_desc:1 "El esfuerzo bélico requiere un fortalecimiento inmediato si queremos mantener niveles adecuados de suministros para nuestras valientes tropas. Organizaremos a quienes no luchan en talleres improvisados que producirán lo más básico de las necesidades para nuestras tropas."
@@ -564,7 +564,7 @@
  SPR_take_the_initiative:0 "Tomar la Iniciativa"
  SPR_take_the_initiative_desc:1 "No podemos quedarnos de brazos cruzados mientras nuestros enemigos eligen cuándo y dónde atacarnos. Las guerras se ganan mostrando iniciativa, y eso es lo que debemos hacer."
  SPR_no_pasaran:0 "No Pasarán!"
- SPR_no_pasaran_desc:1 "Que el credo de los antifascistas resuene desde cada hogar en cada ciudad; desde cada azotea hasta cada calle; desde cada barricada hasta cada zanja:
+ SPR_no_pasaran_desc:1 "Que el credo antifascista resuene desde cada hogar en cada ciudad; desde cada azotea hasta cada calle; desde cada barricada hasta cada zanja: '¡No Pasarán!' - ¡no pasarán!"
  SPR_no_pasaran_tt:2 "Colocar §Y1 Fuerte§! en todas las provincias con §Y1 Punto de Victoria§! en estados controlados.\nColocar §Y2 Fuertes§! en todas las provincias con §Y3 Puntos de Victoria§! en estados controlados.\nColocar §Y3 Fuertes§! en todas las provincias con §Y10 Puntos de Victoria§! en estados controlados.\nColocar §Y4 Fuertes§! en todas las provincias con §Y30 Puntos de Victoria§! o más en estados controlados.\n"
  SPR_a_frontline_suited_for_intellectuals:0 "Una Línea del Frente Adecuada para Intelectuales"
  SPR_a_frontline_suited_for_intellectuals_desc:1 "Es un desperdicio que nuestras mentes más brillantes combatan al fascista en las líneas del frente; se les puede dar un mejor uso muy por detrás de las líneas, creando nuevas herramientas de guerra que beneficiarán nuestra lucha mucho más de lo que unos pocos soldados extra podrían."

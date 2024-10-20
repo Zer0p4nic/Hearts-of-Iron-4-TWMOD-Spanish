@@ -113,7 +113,7 @@
  ETH_bring_in_foreign_advisors:0 "Traer Asesores Extranjeros"
  ETH_bring_in_foreign_advisors_desc:0 "A pesar de nuestro progreso continuo en la creación de una fuerza aérea [ETH.GetAdjective], nos falta experiencia de primera mano crucial para asegurarnos de que nuestros pilotos se utilicen al máximo. Por lo tanto, traeremos oficiales del extranjero para que nos asesoren sobre cómo podemos mejorar."
  ETH_bring_in_foreign_advisors_tt:0 "Modificar §Y[GetEthiopianAirforceSpiritName]§! por:\n $MODIFIER_ENEMY_ARMY_BONUS_AIR_SUPERIORITY_FACTOR$: §G-5%§!\n $MODIFIER_AIR_DOCTRINE_COST_FACTOR$: §G-5%§!\n $MODIFIER_AIR_ACCIDENTS$: §G-15%§!  "
- ETH_available_as_air_chief_tt:0 "Disponible como Jefe de la Fuerza Aérea:
+ ETH_available_as_air_chief_tt:0 "Disponible como Jefe de la Fuerza Aérea: "
  ETH_ethiopian_officers:0 "[ROOT.GetAdjective] Oficiales"
  ETH_ethiopian_officers_desc:0 "A medida que continúa el desarrollo de la fuerza aérea [ETH.GetAdjective], necesitamos asegurarnos de tener oficiales que puedan coordinar a nuestros pilotos de manera efectiva. En lugar de depender de asesores temporales del extranjero, desarrollaremos nuestra propia experiencia desde cero."
  ETH_ethiopian_officers_tt:0 "Modificar §Y[GetEthiopianAirforceSpiritName]§! por:\n $MODIFIER_AIR_ATTACK$: §G+15%§!"

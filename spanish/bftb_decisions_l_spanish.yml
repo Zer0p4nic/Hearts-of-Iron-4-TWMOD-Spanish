@@ -526,10 +526,10 @@
  BUL_reduced_communist_oppression_cost_tt:0 "El costo de decisión para oprimir a la facción §YSocialistas Amplios§! se reduce a la mitad."
  BUL_improved_faction_effects_tt:0 "Efectos aumentados sobre las facciones para todas las decisiones de §YGestión de Facciones§!."
  BUL_reduced_faction_interaction_cooldown_tt:0 "Las decisiones de §YGestión de Facciones§! tomarán menos tiempo en completarse y estarán disponibles antes después de haber sido activadas."
- BUL_zveno_tt:0 "[GetZvenoName]:
- BUL_bs_tt:0 "[GetBsName]:
- BUL_bzns_tt:0 "[GetBznsName]:
- BUL_nsm_tt:0 "[GetNsmName]:
+ BUL_zveno_tt:0 "[GetZvenoName]: "
+ BUL_bs_tt:0 "[GetBsName]: "
+ BUL_bzns_tt:0 "[GetBznsName]: "
+ BUL_nsm_tt:0 "[GetNsmName]: "
  BUL_zveno_name_and_icon:0 "£faction_bul_zveno §YZveno§!"
  BUL_bs_name_and_icon:0 "£faction_bul_bs §YSocialistas Amplios§!"
  BUL_bzns_name_and_icon:0 "£faction_bul_bzns §YUnión Agraria§!"
