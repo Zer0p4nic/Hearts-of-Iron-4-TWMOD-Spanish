@@ -1,0 +1,225 @@
+﻿l_spanish:  
+ 
+ REDSEA_STRAIT:0 "Estrecho del Mar Rojo"
+ 
+ 
+ TOPBAR_ADD_TOOLTIP:0 "§YClick§! para añadir una ventana §YTopbar Window§! configurable"
+ TOPBAR_INFO_TEXT:0 "[This.GetSelectedTopbarInfoText]" 
+ TOPBAR_INFO_TOOLTIP:0 "[This.GetDynamicTooltip]"
+ TOTAL_CASUALTIES_TT:0 "§YEfectos de nuestras actuales bajas§!\n Base de Apoyo a la Guerra: [?currentWarsupportHit|R%]"
+ TOPBAR_CASUALTIES_TEXT:0 "[?Root.GetCasualtiesAmount]" 
+ TOPBAR_SURRENDER_TEXT:0 "[This.GetTopbarSelectedSurrender]"
+ TOPBAR_STRENGTH_RATIO_TEXT:0 "[Root.GetTopbarAllianceStrengthRatio]"
+ TOPBAR_NAVAL_STRENGTH_RATIO_TEXT:0 "[Root.GetTopbarAllianceNavalStrengthRatio]"
+ TOPBAR_RESOURCE_TEXT:0 "[This.GetTopbarSelectedResource]" 
+ TOPBAR_POPULARITY_TEXT:0 "[This.GetSelectedTopbarPopularityText]"
+ 
+ TOPBAR_MEFO_TEXT:0 "[Root.GetMefoTopbar]"
+ TOPBAR_ARMY_STRENGTH_TEXT:0 "[?Root.army_strength]"
+ TOPBAR_DIVISIONS_TEXT:0 "[?Root.num_divisions]"
+ TOPBAR_BATTALIONS_TEXT:0 "[?Root.num_battalions]"
+ TOPBAR_SPECIAL_FORCES_TEXT:0 "[This.GetTopbarSelectedSF]"
+ TOPBAR_NAVY_STRENGTH_TEXT:0 "[?Root.enemies_naval_strength_ratio]"
+ TOPBAR_SHIPS_TEXT:0 "[This.GetTopbarSelectedShip]"
+ TOPBAR_CONS_GOODS_TEXT:0 "[This.GetTopbarSelectedConsumer]"
+ TOPBAR_POLITICAL_POWER_TEXT:0 "[This.GetTopbarSelectedPP]"
+ TOPBAR_RESEARCH_TEXT:0 "[?Root.modifier@research_speed_factor|%+1]"
+ TOPBAR_CONSCRIPTION_TEXT:0 "[This.GetTopbarSelectedConscription]"
+ TOPBAR_FACTORIES_TEXT:0 "[This.GetTopbarSelectedBuilding]"
+ TOPBAR_WARSCORE_TEXT:0 "[?Root.any_war_score]"
+ TOPBAR_STATES_TEXT:0 "[This.GetTopbarSelectedState]"
+ TOPBAR_FIELD_STRENGTH_TEXT:0 "[Root.GetTopbarFieldStrength]"
+ TOPBAR_ALLIES_TEXT:0 "[?Root.allies^num]"
+ TOPBAR_ENEMIES_TEXT:0 "[?Root.enemies^num]"
+ TOPBAR_FACTION_TEXT:0 "[?Root.faction_members^num]"
+ 
+ 
+ TOPBAR_INFO_LIST:0 "[This.GetTopbarListText]"
+ TOPBAR_INFO_LIST_TOOLTIP:0 "[This.GetTopbarListTooltip]"
+ 
+ TOPBAR_CASUALTIES_TITLE:0 "Bajas"
+ TOPBAR_SURRENDER_TITLE:0 "Rendir"
+ TOPBAR_STRENGTH_RATIO_TITLE:0 "Relación de Fuerza"
+ TOPBAR_NAVAL_STRENGTH_RATIO_TITLE:0 "Relación de Fuerza Naval"
+ TOPBAR_RESOURCE_TITLE:0 "Recursos"
+ TOPBAR_POPULARITY_TITLE:0 "Popularidad"
+ 
+ TOPBAR_MEFO_TITLE:0 "MEFO Timeout"
+ TOPBAR_ARMY_STRENGTH_TITLE:0 "Fuerza del Ejército"
+ TOPBAR_DIVISIONS_TITLE:0 "Divisiones"
+ TOPBAR_BATTALIONS_TITLE:0 "Batallones"
+ TOPBAR_SPECIAL_FORCES_TITLE:0 "Fuerzas Especiales"
+ TOPBAR_NAVY_STRENGTH_TITLE:0 "Fuerza Naval"
+ TOPBAR_SHIPS_TITLE:0 "Barcos"
+ TOPBAR_CONS_GOODS_TITLE:0 "Bienes de Consumo"
+ TOPBAR_POLITICAL_POWER_TITLE:0 "Poder Político"
+ TOPBAR_RESEARCH_TITLE:0 "Velocidad de Investigación"
+ TOPBAR_CONSCRIPTION_TITLE:0 "Conscripción"
+ TOPBAR_FACTORIES_TITLE:0 "Fábricas"
+ TOPBAR_WARSCORE_TITLE:0 "Puntuación de Guerra"
+ TOPBAR_STATES_TITLE:0 "Estados"
+ TOPBAR_FIELD_STRENGTH_TITLE:0 "Fuerza en el Campo"
+ TOPBAR_ALLIES_TITLE:0 "Aliados"
+ TOPBAR_ENEMIES_TITLE:0 "Enemigos"
+ TOPBAR_FACTION_TITLE:0 "Miembros de la Facción"
+ 
+ TOPBAR_LIST_CASUALTIES_TOOLTIP:0 "Bajas"
+ TOPBAR_LIST_SURRENDER_TOOLTIP:0 "§YProgreso de Rendición§!"
+ TOPBAR_LIST_STRENGTH_RATIO_TOOLTIP:0 "Relación de Fuerza"
+ TOPBAR_LIST_NAVAL_STRENGTH_RATIO_TOOLTIP:0 "Relación de Fuerza Naval"
+ TOPBAR_LIST_RESOURCE_TOOLTIP:0 "Recurso Seleccionado: §Y[This.GetTopbarSelectedResourceTooltip]§!\nVariable Seleccionada: §Y[This.GetTopbarSelectedResourceVariableTooltip]§!\n\n§YClic Derecho§! para cambiar el §YRecurso§! seleccionado\n§YShift-Clic Izquierdo§! para cambiar la §YVariable§! seleccionada (Total, Consumido, Exportado, Importado o Producido)"
+ TOPBAR_LIST_POPULARITY_TOOLTIP:0 "Partido Seleccionado: §Y[This.GetTopbarSelectedPopularityTooltip]§!\n§YClic Derecho§! para cambiar"
+ 
+ TOPBAR_LIST_ARMY_STRENGTH_TOOLTIP:0 "Fuerza del Ejército"
+ TOPBAR_LIST_DIVISIONS_TOOLTIP:0 "Divisiones"
+ TOPBAR_LIST_BATTALIONS_TOOLTIP:0 "Batallones"
+ TOPBAR_LIST_SPECIAL_FORCES_TOOLTIP:0 "Batallón Seleccionado: §Y[This.GetTopbarSelectedSFTooltip]§!\n§YClic Derecho§! para cambiar"
+ TOPBAR_LIST_NAVY_STRENGTH_TOOLTIP:0 "Fuerza Naval"
+ TOPBAR_LIST_SHIPS_TOOLTIP:0 "Tipo de Barco Seleccionado: §Y[This.GetTopbarSelectedShipTooltip]§!\n§YClic Derecho§! para cambiar"
+ TOPBAR_LIST_CONS_GOODS_TOOLTIP:0 "§YFactor de Bienes de Consumo§! (número real)"
+ TOPBAR_LIST_POLITICAL_POWER_TOOLTIP:0 "Tipo Seleccionado: §Y[This.GetTopbarSelectedPPTooltip]§!"
+ TOPBAR_LIST_RESEARCH_TOOLTIP:0 "Velocidad de Investigación"
+ TOPBAR_LIST_CONSCRIPTION_TOOLTIP:0 "§Y[This.GetTopbarSelectedConscriptionTooltip]§!"
+ TOPBAR_LIST_FACTORIES_TOOLTIP:0 "Tipo Seleccionado: §Y[This.GetTopbarSelectedBuildingTooltip]§!\n§YClic Derecho§! para cambiar"
+ TOPBAR_LIST_WARSCORE_TOOLTIP:0 "Puntuación de Guerra"
+ TOPBAR_LIST_STATES_TOOLTIP:0 "Tipo Seleccionado: §Y[This.GetTopbarSelectedStateTooltip]§!"
+ TOPBAR_LIST_FIELD_STRENGTH_TOOLTIP:0 "Fuerza en el Campo"
+ TOPBAR_LIST_ALLIES_TOOLTIP:0 "Aliados"
+ TOPBAR_LIST_ENEMIES_TOOLTIP:0 "Enemigos"
+ TOPBAR_LIST_FACTION_TOOLTIP:0 "Miembros de la Facción"
+
+ 
+ 
+ 
+ TOPBAR_CONSCRIPTION_TOOLTIP:0 "Factor total de §YPoblación Reclutable§! (incluye Ley de Conscripción + modificadores)."
+ TOPBAR_RESOURCE_TOOLTIP:0 "\n\n§YClic Derecho§! para §Ycerrar§!"
+ TOPBAR_CASUALTIES_TOOLTIP:0 "Bajas"
+ TOPBAR_SURRENDER_TOOLTIP:0 "§YProgreso de Rendición§!"
+ TOPBAR_STRENGTH_RATIO_TOOLTIP:0 "§YRelación de Fuerza§!. Fuerza estimada del ejército entre aliados vs enemigos. (En Guerra)"
+ TOPBAR_NAVAL_STRENGTH_RATIO_TOOLTIP:0 "§YRelación de Fuerza Naval§!. Fuerza naval estimada entre aliados vs enemigos (En Guerra)"
+ Government_Dyanmic_Tooltip:0 "Popularidad del Partido Político Oficial §Y(Gobierno)§!\n------------------------\nClic nuevamente y §YClic Derecho§! en Popularidad para cambiar el §YPartido Político§!"
+ TOPBAR_MEFO_TOOLTIP:0 "MEFO Timeout"
+ TOPBAR_ARMY_STRENGTH_TOOLTIP:0 "Fuerza del Ejército"
+ TOPBAR_DIVISIONS_TOOLTIP:0 "Divisiones"
+ TOPBAR_BATTALIONS_TOOLTIP:0 "Batallones"
+ TOPBAR_SPECIAL_FORCES_TOOLTIP:0 "§Y[Root.GetTopbarSelectedSFTooltipB]§!"
+ TOPBAR_NAVY_STRENGTH_TOOLTIP:0 "Fuerza Naval"
+ Total_Number_of_Ships:0 "Cantidad Total de Barcos\n------------------------\nClic nuevamente y §YClic Derecho§! en Barcos para cambiar el tipo de §YBarco§!"
+ TOPBAR_CONS_GOODS_TOOLTIP:0 "§YBienes de Consumo [This.GetTopbarSelectedConsumerTooltip]§! (Número Real)"
+ TOPBAR_POLITICAL_POWER_TOOLTIP:0 "Tipo Seleccionado: §Y[This.GetTopbarSelectedPPTooltip]§!"
+ TOPBAR_RESEARCH_TOOLTIP:0 "Velocidad de Investigación"
+ TOPBAR_WARSCORE_TOOLTIP:0 "Puntuación de Guerra"
+ TOPBAR_STATES_TOOLTIP:0 "Tipo Seleccionado: §Y[This.GetTopbarSelectedStateTooltip]§!"
+ TOPBAR_FIELD_STRENGTH_TOOLTIP:0 "Fuerza en el Campo"
+ TOPBAR_ALLIES_TOOLTIP:0 "Aliados"
+ TOPBAR_ENEMIES_TOOLTIP:0 "Enemigos"
+ TOPBAR_FACTION_TOOLTIP:0 "Miembros de la Facción"
+ NO_INFO_SELECTED:0 "No se seleccionó información.\n----------------------\n§YClic Derecho§! para cerrar."
+ 
+ 
+ Total_Oil:0 "§YTotal Disponible§! Petróleo\n------------------------\nClic nuevamente y §YClic Derecho§! en Recursos para cambiar el tipo de recurso."
+ Consumed_Oil:0 "§YConsumido§! Petróleo§!"
+ Exported_Oil:0 "§YExportado§! Petróleo§!"
+ Imported_Oil:0 "§YImportado§! Petróleo§!"
+ Produced_Oil:0 "§YProducido§! (Extraído) Petróleo§!"
+ Total_Rubber:0 "§YTotal Disponible de Goma§!"
+ Consumed_Rubber:0 "§YConsumido§! Goma§!"
+ Exported_Rubber:0 "§YExportado§! Goma§!"
+ Imported_Rubber:0 "§YImportado§! Goma§!"
+ Produced_Rubber:0 "§YProducido§! (Extraído) Goma§!"
+ Aluminium_Total:0 "§YTotal Disponible§! Aluminio§!"
+ Aluminium_Consumed:0 "§YConsumido§! Aluminio§!"
+ Exported_Aluminum:0 "§YExportado§! Aluminio§!"
+ Imported_Aluminum:0 "§YImportado§! Aluminio§!"
+ Produced_Aluminum:0 "§YProducido§! (Extraído) Aluminio§!"
+ Total_Steel:0 "§YTotal Disponible§! Acero§!"
+ Consumed_Steel:0 "§YConsumido§! Acero§!"
+ Exported_Steel:0 "§YExportado§! Acero§!"
+ Imported_Steel:0 "§YImportado§! Acero§!"
+ Produced_Steel:0 "§YProducido§! (Extraído) Acero§!"
+ Total_Tungsten:0 "§YTotal Disponible§! Tungsteno§!"
+ Consumed_Tungsten:0 "§YConsumido§! Tungsteno§!"
+ Exported_Tungsten:0 "§YExportado§! Tungsteno§!"
+ Imported_Tungsten:0 "§YImportado§! Tungsteno§!"
+ Produced_Tungsten:0 "§YProducido§! (Extraído) Tungsteno§!"
+ Total_Raw_Materials:0 "§YTotal Disponible§! Materiales Raros§!"
+ Consumed_Raw_Materials:0 "§YConsumido§! Materiales Raros§!"
+ Exported_Raw_Materials:0 "§YExportado§! Materiales Raros§!"
+ Imported_Raw_Materials:0 "§YImportado§! Materiales Raros§!"
+ Produced_Raw_Materials:0 "§YProducido (Extraído)§! Materiales Raros§!"
+ 
+ 
+ 
+ 
+ 
+ SPECIAL_FORCES_TT:0 "§YFuerzas Especiales§!\nActualmente estamos desplegando [?num_specialised|Y0] de nuestros [?special_forces_cap_TT|Y0] batallones de fuerzas especiales permitidos.\nEl límite es [?special_forces_factor|Y0%] de nuestra Fuerza del Ejército ([?army_strength|Y0]), con un mínimo de [?special_forces_min_TT|Y0]\n[Root.GetSpecialForcesComp][Root.GetMountaineerSF][Root.GetMountSupportSF][Root.GetMarineSF][Root.GetAmphSupportSF][Root.GetParatrooperSF][Root.GetParaSupportSF][Root.GetCommandoSF]\n[Root.SFmodifier1][Root.SFmodifier2][Root.SFmodifier3][Root.SFmodifier4][Root.SFmodifier5]"
+ SPECIAL_FORCES_COMP:0 "\nNuestras §YFuerzas Especiales§! consisten en:\n"
+ SPECIAL_FORCES_MOUNTAINEER:0 "- [?num_battalions_with_type@mountaineers|Y0] Batallones de Montañeros (Peso: §R1§!)\n"
+ SPECIAL_FORCES_GURKHA:0 "- [?num_battalions_with_type@gurkha|Y0] Batallones Gurkhas (Peso: §R1§!)\n"
+ SPECIAL_FORCES_MARINES:0 "- [?num_battalions_with_type@marine|Y0] Batallones de Marines (Peso: §R2§!)\n"
+ SPECIAL_FORCES_PARATROOPER:0 "- [?num_battalions_with_type@paratrooper|Y0] Batallones de Paracaidistas (Peso: §R2§!)\n"
+ SPECIAL_FORCES_COMMANDO:0 "- [?num_battalions_with_type@commando|Y0] Batallones de Comandos (Peso: §R5§!)\n"
+ 
+ SPECIAL_FORCES_MOUNT_SUPPORT:0 "- [?num_battalions_with_type@mount_support|Y0] Soporte de Montañeros (Peso: §R1§!)\n"
+ SPECIAL_FORCES_AMPH_SUPPORT:0 "- [?num_battalions_with_type@amph_support|Y0] Soporte Anfibio (Peso: §R1§!)\n"
+ SPECIAL_FORCES_PARA_SUPPORT:0 "- [?num_battalions_with_type@para_support|Y0] Soporte Aerotransportado (Peso: §R1§!)\n"
+ GET_NAME:0 "[This.GetName]"
+ SPECIAL_FORCES_OVER_LIMIT:0 "§REstamos desplegando demasiadas fuerzas especiales§!\n"
+ SPECIAL_FORCES_MODIFIER_1:0 "§Y[Root.GetSpecialForcesOverLimit]§!\nFactor de Ataque: [?modifier@special_forces_attack_factor|+%] [Root.GetSpecialForcesOverLimitDebuff]\n"
+ SPECIAL_FORCES_MODIFIER_2:0 "Factor de Defensa: [?modifier@special_forces_defence_factor|+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
+ SPECIAL_FORCES_MODIFIER_3:0 "Factor de Tiempo de Entrenamiento: [?modifier@special_forces_training_time_factor|Y%]    [Root.GetSpecialForcesOverLimitTrainingDebuff]\n"
+ SPECIAL_FORCES_MODIFIER_4:0 "Gracia de Suministro: [?modifier@special_forces_no_supply_grace|+1] Hora(s)    [Root.GetSpecialForcesOverLimitDebuff]\n"
+ SPECIAL_FORCES_MODIFIER_5:0 "Fuera de Suministro: [?modifier@special_forces_out_of_supply_factor|+%]   [Root.GetSpecialForcesOverLimitDebuff]\n"
+ 
+ 
+ 
+ 
+ TOTAL_FAC_TT:0 "§YFábricas§!\nFábricas Civiles: §Y[?num_of_civilian_factories]§! \n[Root.GetFreeCIC][Root.GetUsedCIC] §LFábricas Disponibles para Proyectos: [?num_of_civilian_factories_available_for_projects]§!\nFábricas Militares: §Y[?num_of_military_factories]§!\n[Root.GetFreeMIC]Astilleros Navales: §Y[?num_of_naval_factories]§!\n[Root.GetFreeNIC]Total de Fábricas de Equipos: §Y[?country_specialy]§![Root.GetEquipFacTT][Root.GetTankTT][Root.GetTruckTT][Root.GetArtyTT][Root.GetAmmoTT][Root.GetSmallarmsTT][Root.GetUniformTT][Root.GetLtAirTT][Root.GetHvAirTT][Root.GetShipTT][Root.GetSubTT]"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ## EOF ##
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

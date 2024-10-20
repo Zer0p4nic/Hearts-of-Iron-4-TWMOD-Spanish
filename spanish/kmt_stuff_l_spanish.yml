@@ -1,0 +1,296 @@
+﻿l_spanish:
+
+ ### events ###
+ 
+ 
+ 
+ 
+ ### news event ###
+ ## 10/10/2016 ##
+ kns.5.t:0 "[CHI.GetName] Rompe la Tregua con [JAP.GetName]"
+ kns.5.d:0 "[CHI.GetName] ha roto la tregua con [JAP.GetName] y les ha declarado la guerra. Lo que sumerge a ambas naciones en guerra nuevamente, aunque [CHI.GetName] es quien lanza la ofensiva esta vez. Este acto de traición de [CHI.GetName] ha causado algunas preocupaciones a nivel mundial."
+ kns.5.a:0 "Muerte a los perros imperialistas!"
+ kns.5.b:0 "Su belicismo llevará al mundo a una nueva Edad Oscura!"
+ ## 13/11/2016 ##
+ kns.6.t:0 "El [From.GetFactionName]"
+ kns.6.d:0 "La política asiática se ha vuelto del revés hoy, ya que diplomáticos chinos y japoneses anunciaron un pacto militar entre [CHI.GetName] y [JAP.GetName]. Anunciaron que se ha derramado demasiada sangre, cuando hay otras fuerzas buscando su destrucción.\n\n[JAP.GetName] animó a todos a considerar lo que significa que en lugar de debilitarse mutuamente, los viejos enemigos se fortalecerán juntos."
+ kns.6.a:0 "Nada puede amenazar al [From.GetFactionName]!"
+ kns.6.b:0 "Un cambio inesperado en la diplomacia asiática."
+ kns.7.t:0 "[CHI.GetName] Se une al [From.GetFactionName]!"
+ kns.7.d:0 "Los diplomáticos chinos y alemanes han firmado recientemente un pacto militar juntos en [GER.Capital.GetName], fortaleciendo el vínculo entre las dos naciones.\n\nAlgunos sugieren que el objetivo de tal alianza es cercar al [SOV.GetName], pero los funcionarios de [CHI.GetName] y [GER.GetName] no han confirmado ni negado esto."
+ kns.7.c:0 "Una gran potencia está surgiendo."
+ kns.8.t:0 "[GER.GetName] Rechaza la Alianza China!"
+ kns.8.d:0 "Rechazando los avances diplomáticos [CHI.GetAdjective], [From.GetLeader] anunció públicamente que [From.GetName] no perseguiría un pacto militar con [CHI.GetName]."
+ kns.8.b:0 "Und doch habe ich alein..."
+ 
+ ### jap events ###
+ jap.1.t:0 "Kodoha lanza un golpe militar!"
+ jap.1.d:0 "Una intensa rivalidad política ha desatado una serie de asesinatos de políticos en todo el país. Kodoha, el cerebro detrás de todos estos actos, busca destruir a su rival Toseiha, creyendo que su método orientado al parlamento es simplemente una carga para el reinado del emperador. Ahora el emperador está al tanto del evento y ha hecho un discurso público declarando que..."
+ jap.1.a:0 "...Las prácticas violentas de Kodoha deben detenerse de inmediato! (Histórico)"
+ jap.1.b:0 "...los ciudadanos son alentados a apoyar a Kodoha en devolver el poder al Emperador."
+ jap.2.t:0 "Taisei Yokusankai"
+ jap.2.d:0 "El Taisei Yokusankai ('Asociación de Asistencia al Gobierno Imperial') ha sido establecido por nuestro primer ministro, con el objetivo de promover el movimiento Shintaisei ('Nuevo Orden'). Está destinado a ser el partido político gobernante que eliminará el sectarismo en la política y la economía del Imperio de Japón al crear un estado totalitario de partido único. Esto, a su vez, maximizará nuestra eficiencia en el esfuerzo bélico."
+ jap.2.a:0 "Nihon banzai!"
+ 
+ ### jyutgwai events ###
+ jyutgwai.1.t:0 "Muerte de Hu Hanwen"
+ jyutgwai.1.d:0 "Hu Hanwen, uno de los primeros líderes de la facción conservadora derecha en el Kuomintang durante la China revolucionaria, ha fallecido desafortunadamente. Su funeral está programado para celebrarse dentro de 5 días. Se espera que muchas figuras importantes asistan al funeral, incluido Chiang."
+ jyutgwai.1.a:0 "Sus actos no serán olvidados."
+ jyutgwai.2.t:0 "Funeral de Hu Hanwen"
+ jyutgwai.2.d:0 "Con el fallecimiento de Hu Hanwen, su funeral se llevará a cabo unos días después. Chiang ha planeado reunirse con [YUT.GetLeader] allí y buscar su ayuda para destruir la Nueva Camarilla de Guangxi junto con sus rivales políticos, Li Zongren."
+ jyutgwai.2.a:0 "Un plan sólido."
+ jyutgwai.2.b:0 "No es necesario tal enfoque, nuestro ejército hará el trabajo."
+ jyutgwai.2.c:0 "Deberíamos centrarnos en la amenaza japonesa en su lugar."
+ jyutgwai.3.t:0 "Propuesta de Chiang"
+ jyutgwai.3.d:0 "Después de reunirse con [CHI.GetLeader] durante el funeral de Hu Hanwen, [Root.GetLeader] ha recibido una propuesta, o ultimátum como algunos lo llamarían, de él. El detalle es buscar nuestra ayuda para destruir la camarilla de [GXC.GetLeader]. [Root.GetLeader] teme que si la Nueva Camarilla de Guangxi es destruida, su camarilla pronto seguirá su destino."
+ jyutgwai.3.a:0 "Contactar a [GXC.GetLeader] para un frente unido!"
+ jyutgwai.3.b:0 "Tomaremos Nanking y derrocaremos el régimen de [CHI.GetLeader]!"
+ jyutgwai.3.c:0 "Ríndete antes de que sea demasiado tarde!"
+ jyutgwai.4.t:0 "Propuesta de [YUT.GetLeader]"
+ jyutgwai.4.d:0 "[YUT.GetLeader] ha revelado el plan de [CHI.GetLeader] para destruir nuestra camarilla. Sin embargo, temiendo que pronto sigan nuestro destino si somos destruidos, ahora buscan una alianza con nosotros en lugar de asistir a [CHI.GetRulingParty]."
+ jyutgwai.4.a:0 "Nos opondremos juntos a tal tiranía."
+ jyutgwai.4.b:0 "Solo nos tomarán el pelo."
+ jyutgwai.5.t:0 "Alianza Aceptada"
+ jyutgwai.5.d:0 "[GXC.GetLeader] ha aceptado nuestra propuesta de alianza y ahora está preparando sus tropas."
+ jyutgwai.5.a:0 "Muerte a [CHI.GetLeader]!"
+ jyutgwai.6.t:0 "Alianza Rechazada"
+ jyutgwai.6.d:0 "[GXC.GetLeader] ha rechazado nuestra propuesta de alianza."
+ jyutgwai.6.a:0 "Cómo pudieron!"
+ jyutgwai.7.t:0 "[YUT.GetName] se niega a someterse"
+ jyutgwai.7.d:0 "[YUT.GetLeader] se ha negado a ayudarnos a destruir la camarilla de [GXC.GetLeader]."
+ jyutgwai.7.a:0 "Aliviaremos a [YUT.GetLeader] de su deber!"
+ jyutgwai.8.t:0 "Yu Hanmou"
+ jyutgwai.8.d:0 "Después de que Chen Jitang sea relevado de su deber, Yu Hanmou, quien ha estado abogando por Chiang, ha ascendido a la posición de Chen Jitang. Se envía un ultimátum a Chen Jitang para que renuncie a su poder sobre el ejército y se someta al Gobierno Central."
+ jyutgwai.8.a:0 "Ayuda a Chen Jitang a huir a Hong Kong!"
+ jyutgwai.8.b:0 "Persuade a Chen Jitang para que se una a la Nueva Camarilla de Guangxi!"
+ jyutgwai.9.t:0 "La Nueva Camarilla de Guangxi"
+ jyutgwai.9.d:0 "Con Chen Jitang y su comportamiento rebelde fuera de escena, solo [GXC.GetLeader] y sus hombres se oponen a nosotros. Nuestro soborno ha demostrado ser infructuoso. Parece que tenemos que encontrar otra manera."
+ jyutgwai.9.a:0 "Prepara a nuestros hombres!"
+ jyutgwai.9.b:0 "Nuestra atención debería centrarse en los japoneses."
+ jyutgwai.10.t:0 "Reclutamiento de Emergencia"
+ jyutgwai.10.d:0 "[CHI.GetRulingParty] ha tomado algunas acciones, su soborno ha causado disensión entre la Camarilla de Yue. Debemos preparar a nuestros hombres en caso de que estalle una guerra!"
+ jyutgwai.11.t:0 "Presión de los Medios de Comunicación"
+ jyutgwai.11.d:0 "Con la tensión continua entre nosotros y [GXC.GetLeader], la mayoría de los medios de comunicación están apoyando a [GXC.GetLeader] en lugar de a nosotros. Esto se debe principalmente a nuestra política actual de priorizar la estabilidad interna sobre la amenaza japonesa."
+ jyutgwai.11.a:0 "Primero debemos deshacernos de la enfermedad del corazón!"
+ jyutgwai.11.b:0 "Si continuamos haciendo esto, podríamos perder más apoyo del público."
+ jyutgwai.12.t:0 "Incidente Resuelto"
+ jyutgwai.12.d:0 "Después de una discusión prolongada de los representantes de ambos lados, se ha llegado a un consenso. El llamado "Incidente de Liangguang" ha sido resuelto."
+ jyutgwai.12.a:0 "Esto es por el bien mayor del pueblo chino."
+ jyutgwai.15.t:0 "Chen Jitang se sometió"
+ jyutgwai.15.d:0 "Chen Jitang ha decidido someterse al Gobierno Central."
+ jyutgwai.15.a:0 "Una decisión sabia."
+ jyutgwai.8.c:0 "Ese bastardo traidor!"
+ ## 5/2/2017 ##
+ KMT_may_war:0 "§REsto muy probablemente conducirá a la guerra§!\n"
+ GXC_reject_1_tt:0 "§YTomaremos el área de Guangdong si aceptan esta contrapropuesta§!"
+ CHI_reject_1_tt:0 "§YSe convertirán en nuestro títere si aceptan esta contrapropuesta§!"
+ jyutgwai.10.a:0 "Debemos enviar representantes a Nanking para una solución más pacífica."
+ jyutgwai.10.b:0 "Jaak3 si2 laa1, zoeng2 gaai3 sek6"
+ jyutgwai.13.t:0 "[From.GetName] envía representantes"
+ jyutgwai.13.d:0 "Algunos representantes de [From.GetName] han llegado a [Root.Capital.GetName]. Declararon que su misión aquí es encontrar una solución más pacífica para resolver la situación actual."
+ jyutgwai.13.a:0 "Veamos qué tienen que ofrecer."
+ jyutgwai.13.b:0 "Detengan a estos co-conspiradores!"
+ jyutgwai.14.t:0 "Hostilidad de [From.GetLeader]"
+ jyutgwai.14.d:0 "[From.GetLeader] ha decidido resolver la situación actual por la fuerza."
+ jyutgwai.14.a:0 "Muy bien entonces."
+ jyutgwai.16.t:0 "Oportunidad?"
+ jyutgwai.16.d:0 "Con la guerra en curso entre [CHI.GetLeader]'s [CHI.GetRulingParty] y [GXC.GetLeader]'s [GXC.GetRulingParty], el gobierno central no ha estado prestándonos atención. Podríamos aprovechar esta oportunidad para lanzar una ofensiva e intentar derrocar su gobierno en [CHI.Capital.GetName]."
+ jyutgwai.16.a:0 "Próxima parada, [CHI.Capital.GetName]!"
+ jyutgwai.16.b:0 "¿Dónde está mi oolong otra vez?"
+ jyutgwai.17.t:0 "[From.GetLeader] acepta negociar"
+ jyutgwai.17.d:0 "Después de mucha consideración, [From.GetLeader] ha acordado realizar una reunión con ambos y sus representantes para discutir una solución más pacífica para resolver la situación actual."
+ jyutgwai.17.a:0 "Debemos estar preparados para cualquier cosa."
+ negotiate_in_20:0 "§YUn evento se activará en aproximadamente 35 días.§!\n\n"
+ jyutgwai.18.t:0 "Representantes detenidos"
+ jyutgwai.18.d:0 "Nuestos representantes enviados a negociar con [CHI.GetRulingParty] han sido detenidos. Parece que [CHI.GetLeader] quiere resolver esto en el campo de batalla."
+ jyutgwai.18.a:0 "Está bien, nuestros hombres lucharán hasta el último aliento!"
+ jyutgwai.19.t:0 "[From.GetName] lanza ofensiva"
+ jyutgwai.19.d:0 "Pensando que estamos distraídos por nuestro conflicto actual con [GXC.GetLeader]'s [GXC.GetRulingParty], [From.GetLeader] ha decidido atacarnos!"
+ jyutgwai.19.a:0 "Traidor!"
+ jyutgwai.20.t:0 "Exigencias de ambas partes"
+ jyutgwai.20.d:0 "Después de un debate prolongado, los representantes de ambas partes han llegado a un consenso.\n\nEl resultado de su discusión es el siguiente:\n\n[CHI.GetName] y [GXC.GetName] retirarán sus tropas.\nEl gobierno central no mediará en los asuntos de Liangguang.\n[GXC.GetName] debe obedecer las órdenes del gobierno central absolutamente una vez que estalle la guerra.\n\nSin embargo, [CHI.GetLeader] y [GXC.GetLeader] deben estar de acuerdo con estos términos para que surtan efecto."
+ jyutgwai.20.a:0 "Aceptable"
+ jyutgwai.20.b:0 "Humillante!"
+ jyutgwai.22.t:0 "Contrapropuesta de [CHI.GetName]"
+ jyutgwai.22.d:0 "Viendo los términos como desiguales y humillantes, [CHI.GetLeader] ha ordenado una contrapropuesta que demanda que nuestra camarilla esté bajo su control directo."
+ jyutgwai.22.a:0 "Solo termina con esto."
+ jyutgwai.22.b:0 "Fang shen me gou pi!"
+ jyutgwai.23.t:0 "Contrapropuesta de [GXC.GetName]"
+ jyutgwai.23.d:0 "Viendo los términos como desiguales y humillantes, [GXC.GetLeader] ha ordenado una contrapropuesta que demanda que el área de Liangguang esté bajo su control directo como compensación."
+ jyutgwai.24.t:0 "Contrapropuesta rechazada"
+ jyutgwai.24.d:0 "Nuestra contrapropuesta ha sido rechazada, parece que solo queda un camino."
+ jyutgwai.24.a:0 "Prepárense!"
+ jyutgwai.25.t:0 "Contrapropuesta Aceptada"
+ jyutgwai.25.d:0 "Para nuestra sorpresa, nuestra contrapropuesta ha sido aceptada."
+ jyutgwai.25.a:0 "Al menos no tenemos que ir a la guerra."
+ jyutgwai.26.t:0 "Negociación Fallida"
+ jyutgwai.26.d:0 "Ambas partes han rechazado los términos. Otra negociación parece bastante imposible, ambas partes han comenzado a movilizar tropas para una guerra."
+ jyutgwai.26.a:0 "Lo sabíamos!"
+ jyutgwai.27.t:0 "Situación Resuelta"
+ jyutgwai.27.d:0 "Ambas partes han retirado sus tropas, la tensión ahora se ha aliviado."
+ jyutgwai.27.a:0 "Bueno para todos."
+ ## 20/3/2017 ##
+ jyutgwai.15.b:0 "Pronto recuperaremos el control sobre la llanura central."
+ 
+ ## lure-them-in events ##
+ lti.1.t:0 "Estrategia de Atracción"
+ lti.1.d:0 "Nuestros soldados ahora están comenzando a seguir las instrucciones de nuestra nueva estrategia de "Atracción". Si todo va bien, esto debería traer algunos cambios a la guerra pronto."
+ lti.1.a:0 "Esperemos lo mejor."
+ lti.2.d:0 "Nuestra nueva estrategia ha demostrado ser bastante exitosa. Nuestros soldados ahora son más efectivos defendiendo contra nuestros enemigos."
+ lti.2.a:0 "Una buena señal"
+ lti.6.t:0 "Partisanos Enemigos"
+ lti.6.d:0 "Se han reportado últimamente actividades esporádicas de partisanos enemigos detrás de nuestra línea del frente. Aunque no es una amenaza seria en este momento, algunos oficiales sugieren que deberíamos aplastar a nuestro enemigo antes de que sus partisanos comiencen a amenazar nuestra línea de suministro."
+ lti.6.a:0 "Veremos..."
+ lti.7.d:0 "Se han reportado cada vez más actividades de partisanos, la situación está empeorando!"
+ lti.7.a:0 "Maldita sea!"
+ lti.11.t:0 "Mando de Línea del Frente Inadecuado"
+ lti.11.d:0 "Las fallas en nuestro mando de línea del frente nunca han sido más evidentes para [From.GetName]. Sus fuerzas ahora están aprovechando esta oportunidad para contraatacar."
+ lti.11.a:0 "Esos generales incompetentes deberían cometer seppuku!"
+
+
+ ### diplomacy ###
+ KMT_SHX_refused:0 "Oferta rechazada"
+ CCP_SHX_refused:0 "Retaguardia protegida"
+ SHX_SHX_refused:0 "Intento de anexión diplomática"
+ no_collaboration_with_CHI_COM:0 "Atacar al PRC"
+ chi_tib_diplomatic_focus:0 "Enfoque Diplomático Chino-Tibetano"
+ CHI_join_britain_rejected:0 "China no logró unirse a los Aliados"
+ false_document_trusted:0 "Documento falso confiado"
+ never_like_them_anyway:0 "Nunca me gustaron de todos modos..."
+ recognition:0 "Reconocimiento"
+ tolerance:0 "Tolerancia"
+ wtever:0 "Magia!"
+ SOV_CHI_join_comintern_reject:0 "China no logró unirse al Comintern"
+ KMT_commie_banned:0 "Comunismo Prohibido"
+ ## 7/7/2016 ##
+ boycott_comitern:0 "Boicot al Comintern"
+ ## 8/7/2016 ##
+ gzw_kept:0 "Guangzhouwan Mantenido"
+ hk_kept:0 "Hong Kong Mantenido"
+ macau_kept:0 "Macao Mantenido"
+ ## 22/8/2016 ##
+ no_interv_in_tp:0 "Intervención Rechazada"
+ jap_friendship_trade:0 "Enfoque Diplomático Japonés"
+ jap_friendship:0 "Enfoque Diplomático Japonés"
+ jap_no_return_terri:0 "Se negó a devolver territorios"
+ still_border_dispute:0 "Disputa Fronteriza"
+ sov_better_trade:0 "Acuerdo comercial con la URSS"
+ aggresion:0 "Agresión"
+ ## 27/8/2016 ##
+ hanjian:0 "Hanjian"
+ ohne_ehre:0 "Ohne Ehre!"
+ flying_tigers:0 "Voluntarios de los Tigres Voladores"
+ gzw_demo_kept:0 "Guangzhouwan Mantenido"
+ hk_demo_kept:0 "Hong Kong Mantenido"
+ macau_demo_kept:0 "Macao Mantenido"
+ revisionist_pig:0 "Cerdos Revisionistas"
+ ## 6/10/2016 ##
+ war_against_communist_china:0 "Guerra contra la China comunista"
+ liberator_of_korea:0 "Liberador de Corea"
+ ## 19/10/2016 ##
+ ignore_claim:0 "Ignoró nuestras reclamaciones sobre Indochina"
+ ## 20/10/2016 ## Tomorrow I can play Civ VI!!!
+ sino_german_cooperation:0 "Cooperación Sino-Alemana"
+ more_sino_german_coop:0 "Más Cooperación Sino-Alemana"
+ ## 4/11/2016 ##
+ GER_CHI_join_germany_reject:0 "Rechazó que China se uniera al Eje"
+ ## 6/11/2016 ##
+ KMT_closer_to_britain:0 "Enfoque Diplomático Chino"
+ KMT_trans_pacific_friendship:0 "Enfoque Diplomático Chino"
+ ## 15/11/2016 ##
+ KMT_sino_japanes_friendship:0 "Amistad Sino-Japonesa"
+ ## 3/1/2017 ##
+ pro_jap_traitor:0 "Traidor Pro-Japonés"
+ ## 9/3/2017 ##
+ KMT_doolittle_pilots_help_arrest:0 "Entregó al Piloto Americano"
+ KMT_doolittle_pilots_given_to_JAP:0 "Entregó al Piloto a Japón"
+ KMT_doolittle_pilots_help_JAP_reaction:0 "Ayudar al Piloto Americano"
+ KMT_doolittle_pilots_detained_SOV:0 "Piloto Detenido"
+ KMT_doolittle_pilots_detained:0 "Piloto Detenido"
+ KMT_doolittle_pilots_help:0 "Pilotos Ayudados"
+ KMT_assist_in_war:0 "Incursión Doolittle"
+ 
+ ### flag ###
+ full_control_by_root:0 "Está controlado y es propiedad tuya"
+ CHI_warred_with_JAP:0 "La guerra con Japón ha terminado"
+ CCP_civil_war_started:0 "La guerra civil con la China Comunista ha estallado"
+ CCP_refuse_yangtze_partisan:0 "Partición del Yangtsé rechazada"
+ jap_support_chi_pro_jap:0 "Japón nos apoya"
+ jap_civil_war_sf:0 "La guerra civil japonesa ha estallado"
+ KMT_any_state_chi_core_jap_own_tt:0 "Cualquier núcleo chino es propiedad de Japón o del títere de Japón"
+ ## 2/1/2017 ##
+ KMT_pro_japanese:0 "Apoyó a la facción pro-japonesa en China"
+ ## 4/2/2017 ##
+ liangguang_incident:0 "El Incidente de Liangguang está en curso"
+ jyut_generals_defected:0 "Desertó al KMT"
+ huhanwen_dead:0 "Hu Hanwen ha fallecido"
+ chen_jitang_join_gxc:0 "Chen Jitang se ha unido a nosotros"
+ 
+ ### misc ###
+ KMT_trick_war:0 "China declara una guerra sorpresa a Japón"
+ JAP_toseiha_trait:0 "Toseiha en el Poder"
+ JAP_toseiha_trait_chi_ally:0 "Toseiha en el Poder"
+ JAP_kodoha_trait:0 "Kodoha en el Poder"
+ JAP_kodoha_trait_chi_ally:0 "Kodoha en el Poder"
+ JAP_kodoha:0 "Kodoha"
+ JAP_toseiha:0 "Toseiha"
+ JAP_taiseiyokusankai:0 "Taisei Yokusankai"
+ ya_zhou_lian_meng:0 "Da Dong Ya Gong Rong Quan"
+ autonomy_warlords:0 "Señor de la guerra"
+ KMT_kmt_party_name:0 "Kuomintang"
+ YUT_neutrality:0 "Camarilla de Yue"
+ YUT_neutrality_DEF:0 "La Camarilla de Yue"
+ YUT_neutrality_ADJ:0 "Chino"
+ YUT_fascism:0 "Gran Estado de Cantón"
+ YUT_fascism_DEF:0 "El Gran Estado de Cantón"
+ YUT_fascism_ADJ:0 "Cantonés"
+ YUT_communism:0 "Comuna de Cantón"
+ YUT_communism_DEF:0 "La Comuna de Cantón"
+ YUT_communism_ADJ:0 "Cantonés"
+ YUT_democratic:0 "República de Cantón"
+ YUT_democratic_DEF:0 "La República de Cantón"
+ YUT_democratic_ADJ:0 "Cantonés"
+ KMT_blueshirt:0 "Camisas Azules"
+ KMT_wjw:0 "Régimen de Wang Jingwei"
+ anti_chiang:0 "Frente Unido Anti-Chiang"
+ taiyuan_artillery:0 "Artillerías de Taiyuan"
+ hanyang_rifles:0 "Rifles de Hanyang"
+ CKS_regime:0 "Kuomintang"
+ 
+
+ ### equipments ###
+
+
+
+ ## artillery ## better change it too in the equipment file
+ CHI_artillery_equipment_1:0 "Tipo 14 77mm Liao"
+ CHI_artillery_equipment_1_short:0 "Tipo 14 77mm"
+ CHI_artillery_equipment_2:0 "105mm leFH 18"
+ CHI_artillery_equipment_3:0 "150mm sFH 18"
+ ## aa ##
+ CHI_anti_air_equipment_1:0 "Madsen 20 mm AA Machine Cannon M/38"
+ CHI_anti_air_equipment_1_short:0 "Madsen 20 mm cannon"
+ CHI_anti_air_equipment_2:0 "Solothurn ST-5 20 mm"
+ CHI_anti_air_equipment_2_short:0 "Solothurn ST-5"
+ CHI_anti_air_equipment_3:0 "88mm Flak 36"
+ ## at ##
+ #CHI_anti_tank_equipment_1 and CHI_anti_tank_equipment_2 are edited in the equipment file
+ CHI_anti_tank_equipment_3:0 "3-inch Gun M5"
+ ## rocket artilelry ##
+ CHI_rocket_artillery_equipment_1:0 "4.5 M8 Rocket with T66 Launcher"
+ CHI_rocket_artillery_equipment_1_short:0 "4.5 M8 Rocket"
+ CHI_rocket_artillery_equipment_2:0 "M16 Rocket with modified T66 Launcher"
+ CHI_rocket_artillery_equipment_2_short:0 "M16 Rocket"
+
+ 
+ ## cl ##
+
+ ## ss ##
+ 
+ ## transport ship ##
+ CHI_landing_craft:0 "LCVP"
+ CHI_tank_landing_craft:0 "LST"
+ ## 1/12/2017 ##
+ CHI_night_vision:0 "Zielgerät 1229"
+ CHI_night_vision2:0 "M2 sniperscope"
+ 
