@@ -3,7 +3,7 @@
  REDSEA_STRAIT:0 "Estrecho del Mar Rojo"
  
  
- TOPBAR_ADD_TOOLTIP:0 "§YClick§! para añadir una ventana §YTopbar§! configurable"
+ TOPBAR_ADD_TOOLTIP:0 "§YClick§! para añadir una ventana §YTopbar Window§! configurable"
  TOPBAR_INFO_TEXT:0 "[This.GetSelectedTopbarInfoText]" 
  TOPBAR_INFO_TOOLTIP:0 "[This.GetDynamicTooltip]"
  TOTAL_CASUALTIES_TT:0 "§YEfectos de nuestras actuales bajas§!\n Base de Apoyo a la Guerra: [?currentWarsupportHit|R%]"
