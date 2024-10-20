@@ -14,7 +14,7 @@
 	  
 	  INSTALACIÓN: 
 
-	  1.Descarga la carpeta "spanish" de la traducción.
+	  1.Descarga la carpeta "spanish y replace" de la traducción.
       2.Ubica la carpeta raíz del mod a traducir en tu sistema (donde tienes el mod instalado).
       3.Copia la carpeta "spanish y replace" descargada.
       4.Pega la carpeta "spanish y replace" dentro de "localisation" en la carpeta raíz del mod.
