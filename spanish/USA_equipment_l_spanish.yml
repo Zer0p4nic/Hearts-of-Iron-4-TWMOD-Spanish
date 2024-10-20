@@ -37,7 +37,7 @@ USA_medium_tank_equipment_4_desc:0 ""
 
 m26_pershing_equipment:0 "M26 Pershing"
 m26_pershing_equipment_short:0 "M26 Pershing"
-m26_pershing_equipment_desc:0 "El M26 Pershing fue un tanque medio del Ejército de los Estados Unidos. El tanque fue nombrado en honor al General de los Ejércitos John J. Pershing, quien lideró la Fuerza Expedicionaria Americana en Europa durante la Primera Guerra Mundial. Fue utilizado brevemente en los últimos meses de la Segunda Guerra Mundial y extensivamente durante la Guerra de Corea. Destinado a ser un reemplazo del M4 Sherman, el prolongado tiempo de desarrollo significó que solo un pequeño número vio combate en el teatro europeo, más notablemente en la dramática carrera de la 9ª División Acorazada para tomar el Puente Ludendorff durante la Batalla de Remagen."
+m26_pershing_equipment_desc:0 "El M26 Pershing fue un tanque medio del Ejército de los Estados Unidos. El tanque fue nombrado en honor al General de los Ejércitos John J. Pershing, quien lideró la Fuerza Expedicionaria Americana en Europa durante la Primera Guerra Mundial. Fue utilizado brevemente en los últimos meses de la Segunda Guerra Mundial y extensivamente durante la Guerra de Corea. Destinado a ser un reemplazo del M4 Sherman, el prolongado tiempo de desarrollo significó que solo un pequeño número vio combate en el teatro europeo, más notablemente en la dramática carrera de la 9na División Acorazada para tomar el Puente Ludendorff durante la Batalla de Remagen."
 
 USA_heavy_tank_equipment_2:0 "M6A1 Hv.TK"
 USA_heavy_tank_equipment_2_short:0 "M6A1"
